@@ -1,0 +1,1 @@
+{"arquivo":"<internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_1_leitorA2.json","total":87,"contagem":{"estudo_observacional":50,"revisao_narrativa":11,"diretriz":8,"consenso_especialistas":6,"outro":5,"ensaio_clinico":3,"relato_caso":2,"revisao_sistematica_metanalise":2,"livro_capitulo":0}}

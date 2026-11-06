@@ -1,0 +1,12 @@
+Classified all 87 records and wrote them to <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_2_leitorA2.json
+
+estudo_observacional: 43
+revisao_narrativa: 10
+outro: 10
+consenso_especialistas: 8
+relato_caso: 7
+ensaio_clinico: 4
+diretriz: 3
+livro_capitulo: 1
+revisao_sistematica_metanalise: 1
+Total: 87

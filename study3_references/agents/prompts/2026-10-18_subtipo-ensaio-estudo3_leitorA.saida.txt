@@ -1,0 +1,124 @@
+{
+ "itens": [
+  {
+   "codigo": "T01",
+   "subtipo": "rct",
+   "confianca": "media",
+   "justificativa": "Os residentes foram distribuídos aleatoriamente entre os grupos com e sem auxílio de IA; a alocação foi aleatória, embora o desenho se apresente como estudo comparativo prospectivo."
+  },
+  {
+   "codigo": "T02",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Cruzado randomizado: os pacientes foram sorteados para bolus ou infusão de nadroparina e depois trocaram de método."
+  },
+  {
+   "codigo": "T03",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio clínico piloto randomizado 1:1 de azul de metileno contra controle no choque séptico."
+  },
+  {
+   "codigo": "T04",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Esquema triplo aplicado prospectivamente a 90 pacientes e comparado com 180 controles históricos, sem randomização."
+  },
+  {
+   "codigo": "T05",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Duplo-cego e controlado com placebo ativo; 99 pacientes foram sorteados entre cinco braços de dose."
+  },
+  {
+   "codigo": "T06",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo prospectivo de braço único com hipnótico e psicoterapia sob protocolo; o fármaco foi escolhido pela preferência do paciente, sem randomização."
+  },
+  {
+   "codigo": "T07",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "VNI com tosse assistida aplicada prospectivamente a 10 pacientes, comparados com 10 controles históricos."
+  },
+  {
+   "codigo": "T08",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio randomizado, duplo-cego e controlado com placebo de colchicina (COCS)."
+  },
+  {
+   "codigo": "T09",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo de intervenção fisiológica em que todos os pacientes passaram por volumes correntes e complacências diferentes; não há grupos nem randomização descritos."
+  },
+  {
+   "codigo": "T10",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Sem resumo; o título declara estudo prospectivo, randomizado, duplo-cego e controlado com placebo."
+  },
+  {
+   "codigo": "T11",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Ensaio multicêntrico aberto e não comparativo, de braço único com fluconazol."
+  },
+  {
+   "codigo": "T12",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Estudo antes-e-depois de braço único com ivermectina, sem grupo controle randomizado."
+  },
+  {
+   "codigo": "T13",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Coorte prospectiva aberta e registrada em que todos receberam azul de metileno sob protocolo, com medidas antes e depois; sem randomização (poderia ser vista como observacional, pois a droga era resgate clínico)."
+  },
+  {
+   "codigo": "T14",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Coorte PAUSE: estratégia perioperatória padronizada de suspensão de DOAC aplicada a todos, sem grupo randomizado."
+  },
+  {
+   "codigo": "T15",
+   "subtipo": "nao_randomizado",
+   "confianca": "baixa",
+   "justificativa": "Piloto com 2 pacientes em que só a ordem dos volumes correntes variou ao acaso; os participantes não foram alocados aleatoriamente entre grupos, então não é ensaio randomizado."
+  },
+  {
+   "codigo": "T16",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio duplo-cego, randomizado e controlado com placebo de colchicina contra FA pós-operatória."
+  },
+  {
+   "codigo": "T17",
+   "subtipo": "rct",
+   "confianca": "baixa",
+   "justificativa": "Sem resumo e com a página bloqueada (HTTP 403); o título indica ensaio preventivo de dexametasona, provavelmente randomizado, mas não foi possível confirmar (precisa verificar)."
+  },
+  {
+   "codigo": "T18",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo prospectivo de braço único em que todos receberam bolus protocolado de azul de metileno, comparando respondedores e não respondedores; não há randomização (os autores o chamam de observacional)."
+  },
+  {
+   "codigo": "T19",
+   "subtipo": "rct",
+   "confianca": "media",
+   "justificativa": "Apesar de os autores o chamarem de observacional, os pacientes foram 'randomly enrolled' no grupo de extubação guiada pelo ACS ou no controle, o que indica alocação aleatória."
+  },
+  {
+   "codigo": "T20",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio clínico duplo-cego e randomizado entre três doses de itraconazol."
+  }
+ ]
+}

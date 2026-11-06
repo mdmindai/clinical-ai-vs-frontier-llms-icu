@@ -1,0 +1,5 @@
+39 processed. acessou: sim 23, via_alternativa 10, nao 6. confere: sim 33, nd 6. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_11_out.json
+
+Notes:
+- The web search limit for this session (200 calls) was already used up. For pages that blocked access, the one alternative tried was PubMed E-utilities (title or citation search) or Google Patents.
+- The scratchpad subfolder `l11` already held another reader's files from Oct 16. I did not open them. I worked in `scratchpad/r2_l11` instead, and my own downloads into `l11` used separate p*.pdf names.

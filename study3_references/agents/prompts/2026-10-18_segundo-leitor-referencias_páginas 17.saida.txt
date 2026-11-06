@@ -1,0 +1,12 @@
+39 processed
+acessou: sim 31, via_alternativa 1, nao 7
+confere: sim 32, nd 7
+
+The 7 pages I couldn't read and their reasons:
+- **403 errors (4):** Osler, two ResearchGate pages, Infectious Disease Advisor.
+- **Pages with no content (2):** Thrombosis Canada (page shows only its title) and one Instagram post.
+- **reCAPTCHA (1):** the NCBI Bookshelf page.
+
+The web search budget for this session is used up (200 of 200), so the search fallback was not available for any of them.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_17_out.json

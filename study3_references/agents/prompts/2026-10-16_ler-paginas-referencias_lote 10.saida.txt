@@ -1,0 +1,1 @@
+39 processed; acessou: sim 22, via_alternativa 15, nao 2; confere: sim 37, nd 2. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_10_out.json

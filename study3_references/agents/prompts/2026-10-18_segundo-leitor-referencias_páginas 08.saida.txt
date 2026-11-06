@@ -1,0 +1,7 @@
+Processed: 39
+acessou: sim 22, via_alternativa 10, nao 7
+confere: sim 32, nd 7
+
+The web-search budget ran out, so the alternative lookups used Europe PMC title searches instead. For the 7 pages that could not be read, tipo was left null.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_08_out.json

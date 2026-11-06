@@ -1,0 +1,5 @@
+Processed 39.
+acessou: sim 26, via_alternativa 8, nao 5
+confere: sim 34, nd 5
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_07_out.json

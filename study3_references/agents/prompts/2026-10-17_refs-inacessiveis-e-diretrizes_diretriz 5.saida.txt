@@ -1,0 +1,10 @@
+tipo_revisado: diretriz 16, consenso_especialistas 11 (total 27)
+base: texto_completo 18, resumo 5, pagina 3, nao_acessado 1
+
+Notes:
+- The one I couldn't open is the AHA news page for the 2020 VHD guideline (it returned 403). It keeps the label diretriz, but it may really be noticia_blog.
+- Four documents are institutional or third-party but carry formal grading, so they stay diretriz:
+  - two Orlando Health surgicalcriticalcare.net guidelines (Level 1/2/3)
+  - the Guideline Central summary of the ASRA guideline (grades 1A–2C)
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_5_out.json

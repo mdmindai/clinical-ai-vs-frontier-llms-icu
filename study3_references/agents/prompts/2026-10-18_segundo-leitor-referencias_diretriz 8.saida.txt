@@ -1,0 +1,7 @@
+tipo_revisado: consenso_especialistas 16, diretriz 7. base: texto_completo 20, pagina 3, nao_acessado 0. Total 23 documents.
+
+Two judgment calls:
+- **Brazilian mechanical ventilation recommendations 2013, part 2:** I labeled both copies (the SciELO page and pmid:25410835) diretriz. Each recommendation is marked "recomendação" or "sugestão" according to how strong the evidence is. That is a two-level scheme, not GRADE, so the call could go either way.
+- **Two Ministry of Health manuals:** the 2006 Guia de Bolso and the 2024 Guia de Vigilância vol. 3 are labeled consenso_especialistas. They could also be classed as livro_capitulo.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_8_out.json

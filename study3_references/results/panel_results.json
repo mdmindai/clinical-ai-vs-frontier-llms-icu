@@ -1,0 +1,152 @@
+{
+ "judges": [
+  "openai",
+  "gemini",
+  "claude"
+ ],
+ "n": 100,
+ "by_system": {
+  "mdmind": {
+   "relevance": 3.55,
+   "evidence_level": 3.15,
+   "recency": 3.21,
+   "sufficiency": 3.29,
+   "overall": 3.3
+  },
+  "oe": {
+   "relevance": 3.44,
+   "evidence_level": 3.26,
+   "recency": 3.6,
+   "sufficiency": 3.27,
+   "overall": 3.39
+  },
+  "gpt5": {
+   "relevance": 3.41,
+   "evidence_level": 3.37,
+   "recency": 3.31,
+   "sufficiency": 2.8,
+   "overall": 3.22
+  },
+  "claude": {
+   "relevance": 1.97,
+   "evidence_level": 1.54,
+   "recency": 1.97,
+   "sufficiency": 1.74,
+   "overall": 1.81
+  },
+  "gemini": {
+   "relevance": 2.0,
+   "evidence_level": 1.46,
+   "recency": 2.21,
+   "sufficiency": 1.67,
+   "overall": 1.83
+  }
+ },
+ "overall_by_judge": {
+  "openai": {
+   "mdmind": 3.13,
+   "oe": 3.32,
+   "gpt5": 3.27,
+   "claude": 1.76,
+   "gemini": 1.81
+  },
+  "gemini": {
+   "mdmind": 3.26,
+   "oe": 3.38,
+   "gpt5": 3.15,
+   "claude": 1.79,
+   "gemini": 1.8
+  },
+  "claude": {
+   "mdmind": 3.51,
+   "oe": 3.47,
+   "gpt5": 3.25,
+   "claude": 1.87,
+   "gemini": 1.89
+  }
+ },
+ "friedman": {
+  "chi2": 193.4,
+  "p": 9.981590571775956e-41
+ },
+ "pairs": [
+  {
+   "pair": "mdmind×oe",
+   "delta": -0.094,
+   "p": 0.053179508419974535,
+   "p_holm": 0.1595385252599236
+  },
+  {
+   "pair": "mdmind×gpt5",
+   "delta": 0.075,
+   "p": 0.2642878060742688,
+   "p_holm": 0.5285756121485377
+  },
+  {
+   "pair": "mdmind×claude",
+   "delta": 1.491,
+   "p": 2.6090700310774037e-15,
+   "p_holm": 1.8263490217541826e-14
+  },
+  {
+   "pair": "mdmind×gemini",
+   "delta": 1.463,
+   "p": 5.829760706135652e-17,
+   "p_holm": 5.829760706135652e-16
+  },
+  {
+   "pair": "oe×gpt5",
+   "delta": 0.169,
+   "p": 0.010382631820461827,
+   "p_holm": 0.04153052728184731
+  },
+  {
+   "pair": "oe×claude",
+   "delta": 1.585,
+   "p": 6.3592266403450876e-15,
+   "p_holm": 3.179613320172544e-14
+  },
+  {
+   "pair": "oe×gemini",
+   "delta": 1.558,
+   "p": 6.32050499302731e-17,
+   "p_holm": 5.829760706135652e-16
+  },
+  {
+   "pair": "gpt5×claude",
+   "delta": 1.416,
+   "p": 2.67245600613593e-15,
+   "p_holm": 1.8263490217541826e-14
+  },
+  {
+   "pair": "gpt5×gemini",
+   "delta": 1.388,
+   "p": 1.9176463997042815e-15,
+   "p_holm": 1.5341171197634252e-14
+  },
+  {
+   "pair": "claude×gemini",
+   "delta": -0.028,
+   "p": 0.7788640422251081,
+   "p_holm": 0.7788640422251081
+  }
+ ],
+ "mdmind_vs_oe_by_axis": {
+  "relevance": {
+   "delta": 0.11,
+   "p": 0.2565615573935873
+  },
+  "evidence_level": {
+   "delta": -0.117,
+   "p": 0.13877737525056702
+  },
+  "recency": {
+   "delta": -0.393,
+   "p": 5.350871627255583e-05
+  },
+  "sufficiency": {
+   "delta": 0.023,
+   "p": 0.9980725926629772
+  }
+ }
+}

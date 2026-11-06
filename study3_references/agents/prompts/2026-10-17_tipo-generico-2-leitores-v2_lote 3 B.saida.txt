@@ -1,0 +1,10 @@
+Lote 3, leitor B2: 87 itens classificados um a um, com motivo próprio para cada item. Saída em <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_3_leitorB2.json
+
+- estudo_observacional: 46
+- revisao_narrativa: 8
+- outro: 8
+- consenso_especialistas: 7
+- relato_caso: 7
+- diretriz: 4
+- ensaio_clinico: 4
+- revisao_sistematica_metanalise: 3

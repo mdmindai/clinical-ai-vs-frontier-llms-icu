@@ -1,0 +1,9 @@
+Processed: 39
+acessou: sim 30, via_alternativa 2, nao 7
+confere: sim 32, nd 7, parcial 0, nao 0
+
+Notes:
+- Every titulo_citado in this batch is just the domain name. So "confere = sim" means the URL opened to a real document on that domain, not that a cited title was matched.
+- The search budget for the session ran out (200 of 200), so my alternative searches went through DuckDuckGo HTML via curl. For the 7 pages I couldn't open, it found only the same URL, so they stay "nao": profarma.al, MedLink, the two ResearchGate pages, comunidad.madrid (504), MIMS and Drogasil.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_16_out.json

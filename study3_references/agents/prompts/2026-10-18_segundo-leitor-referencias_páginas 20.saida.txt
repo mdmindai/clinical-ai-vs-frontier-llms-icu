@@ -1,0 +1,9 @@
+Processed: 35
+
+acessou: sim 30, via_alternativa 1, nao 4
+
+confere: sim 31, nd 4
+
+The 4 unread pages are gemini_1192_8 (eurofarma), gemini_1198_2 (researchgate figure), gemini_1258_1 (medlink) and gemini_1258_7 (kauvery). All four returned 403 to both WebFetch and curl. I could not look for copies elsewhere because the session's web search limit (200) was used up, so the "one alternative" step was limited to curl and the Europe PMC API.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_20_out.json

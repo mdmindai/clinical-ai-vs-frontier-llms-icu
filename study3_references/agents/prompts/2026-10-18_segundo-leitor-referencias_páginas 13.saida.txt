@@ -1,0 +1,15 @@
+Processed 39 references. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_13_out.json
+
+- acessou: sim 32, via_alternativa 6, nao 1
+- confere: sim 37, parcial 1, nd 1
+
+The "nao" is gemini_275_6 (portugues.medscape.com): it returned 402/403, there was no archived copy, and web search was unavailable because the session's search budget was used up.
+
+Process deviations:
+- I used curl on the same URL for gemini_217_3, gemini_217_5, gemini_249_5 and gemini_249_6, because WebFetch failed on them. Those are marked via_alternativa.
+- gemini_275_7 (mdsaude.com) was read from a Wayback snapshot and is also marked via_alternativa.
+- gemini_249_8 (unimeduberlandia.coop.br) is an image-only PDF, so I read it with OCR.
+
+Every titulo_citado in this batch is just the domain name, so "confere" mostly records whether the page itself is a real document.
+
+The shared scratchpad folder `scratchpad/l13/` already held files from another agent. I did not open or use them, and I worked in `scratchpad/l13_r2/`.

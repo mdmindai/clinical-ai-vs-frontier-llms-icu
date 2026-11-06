@@ -1,0 +1,13 @@
+39 references processed.
+- acessou: sim 33, via_alternativa 4, nao 2
+- confere: sim 37, nd 2
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_03_out.json
+
+- **Could not read (nao):**
+  - gpt5_373_2 (cpcqc.org ACOG PDF): returned 403. The web search budget for this session was used up, so no alternative search was possible.
+  - gpt5_567_4 (CEC methylene blue): returned 403, and the Wayback Machine copy returned 404.
+- **Read via alternative sources:**
+  - The 3 NCBI Bookshelf pages (gpt5_389_1, gpt5_493_3, gpt5_679_4) were blocked by reCAPTCHA. Their metadata came from Europe PMC records.
+  - gpt5_700_2: ScienceDirect returned 403, so the metadata came from Crossref. No abstract was available, so `tipo` is null for this one.
+- **Empty `titulo_citado`:** 5 items (gpt5_493_2, gpt5_519_1, gpt5_519_3, gpt5_571_2; gpt5_623_4 was matched by its PDF metadata title). I marked them `confere` "sim" because the URL itself is the cited document, and the `nota` field says so.

@@ -1,0 +1,5 @@
+tipo_revisado: consenso_especialistas 23, diretriz 4
+base: texto_completo 25, pagina 1, nao_acessado 1
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_7_out.json
+
+The not-accessed document is the Scribd upload, where only metadata loaded. The batch file gave no current label, so it is recorded as consenso_especialistas with evidencia_graduada "nd" and a note.

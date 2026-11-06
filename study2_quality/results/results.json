@@ -1,0 +1,145 @@
+{
+ "n": 100,
+ "judges": [
+  "openai",
+  "gemini",
+  "claude"
+ ],
+ "grades_folder": "grades",
+ "by_system": {
+  "gpt5": {
+   "correctness": 3.92,
+   "safety": 3.967,
+   "completeness": 3.74,
+   "clarity": 3.94,
+   "overall": 3.892
+  },
+  "claude": {
+   "correctness": 3.59,
+   "safety": 3.457,
+   "completeness": 3.35,
+   "clarity": 3.783,
+   "overall": 3.545
+  },
+  "gemini": {
+   "correctness": 3.443,
+   "safety": 3.53,
+   "completeness": 3.47,
+   "clarity": 3.93,
+   "overall": 3.593
+  },
+  "mdmind": {
+   "correctness": 3.503,
+   "safety": 3.537,
+   "completeness": 3.647,
+   "clarity": 3.313,
+   "overall": 3.5
+  },
+  "oe": {
+   "correctness": 3.443,
+   "safety": 3.423,
+   "completeness": 3.41,
+   "clarity": 3.567,
+   "overall": 3.461
+  }
+ },
+ "overall_by_judge": {
+  "openai": {
+   "gpt5": 3.967,
+   "claude": 3.415,
+   "gemini": 3.485,
+   "mdmind": 3.408,
+   "oe": 3.322
+  },
+  "gemini": {
+   "gpt5": 3.842,
+   "claude": 3.562,
+   "gemini": 3.745,
+   "mdmind": 3.547,
+   "oe": 3.493
+  },
+  "claude": {
+   "gpt5": 3.865,
+   "claude": 3.658,
+   "gemini": 3.55,
+   "mdmind": 3.545,
+   "oe": 3.567
+  }
+ },
+ "friedman": {
+  "chi2": 101.37095088819221,
+  "p": 5.022803839952139e-21
+ },
+ "pairs": [
+  {
+   "a": "gpt5",
+   "b": "claude",
+   "delta": 0.347,
+   "p": 7.605042959049351e-13,
+   "p_holm": 6.844538663144416e-12
+  },
+  {
+   "a": "gpt5",
+   "b": "gemini",
+   "delta": 0.298,
+   "p": 1.1821722205480104e-12,
+   "p_holm": 9.457377764384083e-12
+  },
+  {
+   "a": "gpt5",
+   "b": "mdmind",
+   "delta": 0.392,
+   "p": 2.411879951262025e-12,
+   "p_holm": 1.6883159658834177e-11
+  },
+  {
+   "a": "gpt5",
+   "b": "oe",
+   "delta": 0.431,
+   "p": 3.679232354034373e-13,
+   "p_holm": 3.679232354034373e-12
+  },
+  {
+   "a": "claude",
+   "b": "gemini",
+   "delta": -0.048,
+   "p": 0.301313805031439,
+   "p_holm": 0.903941415094317
+  },
+  {
+   "a": "claude",
+   "b": "mdmind",
+   "delta": 0.045,
+   "p": 0.31097039925002723,
+   "p_holm": 0.903941415094317
+  },
+  {
+   "a": "claude",
+   "b": "oe",
+   "delta": 0.084,
+   "p": 0.0662999992969758,
+   "p_holm": 0.33149999648487904
+  },
+  {
+   "a": "gemini",
+   "b": "mdmind",
+   "delta": 0.093,
+   "p": 0.15266896579314138,
+   "p_holm": 0.6106758631725655
+  },
+  {
+   "a": "gemini",
+   "b": "oe",
+   "delta": 0.133,
+   "p": 0.014802225150066187,
+   "p_holm": 0.08881335090039713
+  },
+  {
+   "a": "mdmind",
+   "b": "oe",
+   "delta": 0.039,
+   "p": 0.36501885546094937,
+   "p_holm": 0.903941415094317
+  }
+ ]
+}

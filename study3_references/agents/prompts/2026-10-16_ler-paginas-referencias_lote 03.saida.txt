@@ -1,0 +1,12 @@
+Processed: 39
+
+acessou: sim 32, nao 5, via_alternativa 2
+
+confere: sim 30, nd 9, parcial 0, nao 0
+
+The 9 nd are 5 pages that could not be read and 4 readable pages whose titulo_citado is empty: gpt5_493_2, gpt5_519_1, gpt5_519_3 and gpt5_571_2. Those 4 have no cited title to match against, and their nota says so.
+
+- gpt5_700_2: the ScienceDirect page was blocked, so the title, journal and year come from Crossref (DOI 10.1016/j.tru.2025.100230) and the article text was not read. Its tipo is null.
+- gpt5_447_3: the URL redirected to the Eliquis Dosing Guide, which has the full prescribing information attached.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_03_out.json

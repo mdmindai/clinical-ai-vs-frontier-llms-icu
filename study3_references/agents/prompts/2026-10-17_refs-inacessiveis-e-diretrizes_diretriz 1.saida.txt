@@ -1,0 +1,11 @@
+tipo_revisado (27 docs): diretriz 21, consenso_especialistas 6
+base: texto_completo 15, pagina 8, resumo 4, nao_acessado 0
+evidencia_graduada: sim 18, nao 7, nd 2
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_1_out.json
+
+Five rows need a manual check:
+- **The two NAEPP quick references** (asma_qrg, astpreg_qr): kept as diretriz with evidencia_graduada "nao". The quick references themselves show no grading. The full reports they summarize returned 404, so I couldn't check whether those are graded.
+- **AGA cirrhosis coagulation 2021**: kept as diretriz with evidencia_graduada "nd". The page doesn't show the grading, and the full text was blocked (403).
+- **EASL 2022 bleeding/thrombosis**: marked "sim" with Oxford CEBM plus Delphi. The full text was blocked (403), so this rests only on a web-search summary.
+- **P2Y12 switching consensus**: consenso_especialistas with evidencia_graduada "nd", based only on the abstract.

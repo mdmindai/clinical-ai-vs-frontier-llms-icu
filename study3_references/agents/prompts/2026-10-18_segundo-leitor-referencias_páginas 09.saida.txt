@@ -1,0 +1,7 @@
+39 processed. acessou: sim 29, via_alternativa 8, nao 2. confere: sim 37, nd 2. (No refs in this batch were rated "parcial" or "nao".)
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_09_out.json
+
+- **Alternatives used:** web search hit the session limit of 200 calls. So for the 8 via_alternativa pages I used a PubMed/Crossref title search (4) or a Wayback Machine snapshot (4). Each case is recorded in the nota field.
+- **Not accessed:** claude_714_4 (Google Translate link that redirects to a ScienceDirect page, which returned 403) and claude_835_2 (Medscape Decision Point blocked, no Wayback snapshot).
+- **Off-topic but matching:** claude_714_5 matches its cited title (the Zilucoplan trial protocol) but has nothing to do with levomepromazine, the topic of the rest of that question's references.

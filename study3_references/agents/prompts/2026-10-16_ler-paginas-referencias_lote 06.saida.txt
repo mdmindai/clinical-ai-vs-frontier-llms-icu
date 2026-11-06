@@ -1,0 +1,15 @@
+Processed: 39 references. Output is in <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_06_out.json
+
+acessou: sim 29, via_alternativa 7, nao 3
+confere: sim 33, parcial 3, nd 3
+
+- **The 7 `via_alternativa` items:** 3 were on NCBI Bookshelf, which showed a reCAPTCHA page, so I read them through PubMed E-utilities. The other 4 returned 403: Gut was read on PMC, the heart failure guideline PDF via search plus PubMed, the ScienceDirect article via Crossref, and the professional.heart.org valvular guideline page via web search only.
+- **The 3 `nao` items:**
+  - The davidsosapsiquiatra.com.br blog post: only the site's shell loaded, without the post itself.
+  - The Medscape Portuguese article: the site blocked access with 402/403.
+  - The ispub.com article: also 403.
+  
+  A search for each one found nothing.
+- **The 3 `parcial` items:** two have a cited title that is just "oup.silverchair-cdn.com" and one has an empty cited title. All three pages loaded and are real documents (an Endocrine Society 2025 guideline, an EHJ Acute Cardiovascular Care 2022 review and a Ministério da Saúde 2015 protocol). They are `parcial` only because there was no real cited title to compare against.
+- **Endotext "Hyperaldosteronism":** `ano` is null. Web search shows a 2020 update while PubMed's record date is 2026, so I did not pick one.
+- **Trial protocol PDFs:** these are protocols, not results papers. That applies to claude_4_5, claude_9_7, claude_9_8 and the ReBEC registry entry claude_9_10, and the `nota` field says so for each.

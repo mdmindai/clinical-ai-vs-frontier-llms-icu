@@ -1,0 +1,7 @@
+39 processed. acessou: sim 28, via_alternativa 10, nao 1. confere: sim 38, nd 1. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_05_out.json
+
+Notes:
+- **No web search:** the session's web search budget was used up, so alternative sources came from PMC, Europe PMC/PubMed (esummary), Crossref and the same document on kdigo.org.
+- **Metadata records only:** for the 3 StatPearls chapters, the WHO/PAHO histoplasmosis guideline, the EAST rhabdomyolysis guideline (gpt5_968_10) and the ASTCT CRS grading paper (gpt5_1164_2), the values come from bibliographic records (Europe PMC, PubMed esummary), not from the page itself.
+- **MOGAD article (gpt5_1141_5):** only the Crossref record was available. Article type is not visible there, so tipo = outro.
+- **Not accessed (gpt5_1017_4):** clinicalinfo.hiv.gov returned 403, including without the query string.

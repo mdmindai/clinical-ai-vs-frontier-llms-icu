@@ -1,0 +1,12 @@
+Processed: 39
+acessou: sim 30, via_alternativa 8, nao 1
+confere: sim 38, nd 1
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_02_out.json
+
+Notes:
+- **nao (1):** gpt5_360_4, NICE NG133. The page and the NICE PDF both returned 403. I left organizacao, tipo and ano as null.
+- **No usable title (3):** gpt5_185_1 and gpt5_373_1 had an empty titulo_citado, and gpt5_290_3 had "untitled". I matched them by the URL slug or file name.
+- **Wrong title from WebFetch:** WebFetch gave the wrong title for the GWU PDF (gpt5_282_7). It said acute ischemic stroke, but the PDF text is the 2023 aneurysmal SAH guideline. I recorded the title from the PDF text. Titles that WebFetch read from other PDFs may need the same check.
+- **gpt5_217_4 (StatPearls):** ano 2026 comes from the NCBI record, not from the page, so it may not be the last-update date.
+- **Repeated URLs:** gpt5_292_2 and gpt5_361_2 are the same URL. gpt5_295_1 and gpt5_295_2 are the same document from two hosts.

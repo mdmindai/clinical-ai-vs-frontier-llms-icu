@@ -1,0 +1,5 @@
+39 processed. acessou: sim=34, via_alternativa=4, nao=1. confere: sim=37, parcial=1, nd=1.
+
+In this batch, titulo_citado is only the domain for every item. So "confere" here only checks that the page is a real document at that domain, not that a cited title matches. The one "parcial" is gemini_1017_6 (urosario): the URL slug describes a lateral-flow antigen assay, but the page shows a PCR abstract.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_18_out.json

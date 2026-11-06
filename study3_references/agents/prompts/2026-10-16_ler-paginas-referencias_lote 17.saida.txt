@@ -1,0 +1,12 @@
+I processed 39 references. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_17_out.json
+
+acessou: sim 32, via_alternativa 3, nao 4
+confere: sim 35, nd 4, parcial 0, nao 0
+
+In every item in this batch, titulo_citado is only the domain name. So "sim" means the URL opened a real, specific document on that site. There was no cited title to check it against.
+
+The 4 that could not be read:
+- **gemini_835_4 (Thrombosis Canada):** the page loads only its site title; the guide's content never appears.
+- **gemini_887_2 (ResearchGate):** blocked with a 403 error, and a search for the exact title found no other copy.
+- **gemini_887_5 (NCBI Bookshelf NBK544332):** returned a reCAPTCHA page instead of the content.
+- **gemini_889_2 (Infectious Disease Advisor):** blocked with a 403 error, and a search found no other copy.

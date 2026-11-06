@@ -1,0 +1,360 @@
+{"q": 1, "exam": "TEMI2025", "orig_q": "3", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": null}
+{"q": 2, "exam": "TEMI2025", "orig_q": "6", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.1, "tokens": null}
+{"q": 3, "exam": "TEMI2025", "orig_q": "11", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.8, "tokens": null}
+{"q": 4, "exam": "TEMI2025", "orig_q": "13", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.0, "tokens": null}
+{"q": 5, "exam": "TEMI2025", "orig_q": "14", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": null}
+{"q": 6, "exam": "TEMI2025", "orig_q": "15", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.7, "tokens": null}
+{"q": 7, "exam": "TEMI2025", "orig_q": "16", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.8, "tokens": null}
+{"q": 8, "exam": "TEMI2025", "orig_q": "18", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.7, "tokens": null}
+{"q": 9, "exam": "TEMI2025", "orig_q": "19", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.9, "tokens": null}
+{"q": 10, "exam": "TEMI2025", "orig_q": "22", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.3, "tokens": null}
+{"q": 11, "exam": "TEMI2025", "orig_q": "25", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.9, "tokens": null}
+{"q": 12, "exam": "TEMI2025", "orig_q": "26", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.8, "tokens": null}
+{"q": 13, "exam": "TEMI2025", "orig_q": "28", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": null}
+{"q": 14, "exam": "TEMI2025", "orig_q": "29", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.3, "tokens": null}
+{"q": 15, "exam": "TEMI2025", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 16, "exam": "TEMI2025", "orig_q": "36", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 18.0, "tokens": null}
+{"q": 17, "exam": "TEMI2025", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.9, "tokens": null}
+{"q": 18, "exam": "TEMI2025", "orig_q": "40", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.9, "tokens": null}
+{"q": 19, "exam": "TEMI2025", "orig_q": "43", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.7, "tokens": null}
+{"q": 20, "exam": "TEMI2025", "orig_q": "45", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.2, "tokens": null}
+{"q": 21, "exam": "TEMI2025", "orig_q": "46", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 22, "exam": "TEMI2025", "orig_q": "47", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 23, "exam": "TEMI2025", "orig_q": "48", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.4, "tokens": null}
+{"q": 24, "exam": "TEMI2025", "orig_q": "49", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 16.0, "tokens": null}
+{"q": 25, "exam": "TEMI2025", "orig_q": "50", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.3, "tokens": null}
+{"q": 26, "exam": "TEMI2025", "orig_q": "54", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.1, "tokens": null}
+{"q": 27, "exam": "TEMI2025", "orig_q": "55", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.7, "tokens": null}
+{"q": 28, "exam": "TEMI2025", "orig_q": "56", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.7, "tokens": null}
+{"q": 29, "exam": "TEMI2025", "orig_q": "58", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.7, "tokens": null}
+{"q": 30, "exam": "TEMI2025", "orig_q": "60", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.1, "tokens": null}
+{"q": 31, "exam": "TEMI2025", "orig_q": "61", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.4, "tokens": null}
+{"q": 32, "exam": "TEMI2025", "orig_q": "64", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": null}
+{"q": 33, "exam": "TEMI2025", "orig_q": "66", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 16.3, "tokens": null}
+{"q": 34, "exam": "TEMI2025", "orig_q": "67", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.7, "tokens": null}
+{"q": 35, "exam": "TEMI2025", "orig_q": "68", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.3, "tokens": null}
+{"q": 36, "exam": "TEMI2025", "orig_q": "69", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.9, "tokens": null}
+{"q": 37, "exam": "TEMI2025", "orig_q": "71", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.9, "tokens": null}
+{"q": 38, "exam": "TEMI2025", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": null}
+{"q": 39, "exam": "TEMI2025", "orig_q": "73", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": null}
+{"q": 40, "exam": "TEMI2025", "orig_q": "74", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": null}
+{"q": 41, "exam": "TEMI2025", "orig_q": "79", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 42, "exam": "TEMI2025", "orig_q": "84", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.4, "tokens": null}
+{"q": 43, "exam": "AMIB2020", "orig_q": "1", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.0, "tokens": null}
+{"q": 44, "exam": "AMIB2020", "orig_q": "2", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.2, "tokens": null}
+{"q": 45, "exam": "AMIB2020", "orig_q": "3", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.8, "tokens": null}
+{"q": 46, "exam": "AMIB2020", "orig_q": "4", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": null}
+{"q": 47, "exam": "AMIB2020", "orig_q": "5", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 48, "exam": "AMIB2020", "orig_q": "6", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.1, "tokens": null}
+{"q": 49, "exam": "AMIB2020", "orig_q": "7", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 50, "exam": "AMIB2020", "orig_q": "8", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 51, "exam": "AMIB2020", "orig_q": "9", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.6, "tokens": null}
+{"q": 52, "exam": "AMIB2020", "orig_q": "10", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.3, "tokens": null}
+{"q": 53, "exam": "AMIB2020", "orig_q": "12", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": null}
+{"q": 54, "exam": "AMIB2020", "orig_q": "13", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": null}
+{"q": 55, "exam": "AMIB2020", "orig_q": "14", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 56, "exam": "AMIB2020", "orig_q": "15", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.5, "tokens": null}
+{"q": 57, "exam": "AMIB2020", "orig_q": "16", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.3, "tokens": null}
+{"q": 58, "exam": "AMIB2020", "orig_q": "17", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 27.4, "tokens": null}
+{"q": 59, "exam": "AMIB2020", "orig_q": "18", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.1, "tokens": null}
+{"q": 60, "exam": "AMIB2020", "orig_q": "19", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": null}
+{"q": 61, "exam": "AMIB2020", "orig_q": "20", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.5, "tokens": null}
+{"q": 62, "exam": "AMIB2020", "orig_q": "21", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.8, "tokens": null}
+{"q": 63, "exam": "AMIB2020", "orig_q": "22", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": null}
+{"q": 64, "exam": "AMIB2020", "orig_q": "23", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.7, "tokens": null}
+{"q": 65, "exam": "AMIB2020", "orig_q": "24", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 66, "exam": "AMIB2020", "orig_q": "25", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 67, "exam": "AMIB2020", "orig_q": "26", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 18.3, "tokens": null}
+{"q": 68, "exam": "AMIB2020", "orig_q": "27", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.1, "tokens": null}
+{"q": 69, "exam": "AMIB2020", "orig_q": "28", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.4, "tokens": null}
+{"q": 70, "exam": "AMIB2020", "orig_q": "29", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.1, "tokens": null}
+{"q": 71, "exam": "AMIB2020", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 72, "exam": "AMIB2020", "orig_q": "31", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.8, "tokens": null}
+{"q": 73, "exam": "AMIB2020", "orig_q": "32", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.5, "tokens": null}
+{"q": 74, "exam": "AMIB2020", "orig_q": "33", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.5, "tokens": null}
+{"q": 75, "exam": "AMIB2020", "orig_q": "34", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.9, "tokens": null}
+{"q": 76, "exam": "AMIB2020", "orig_q": "35", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.9, "tokens": null}
+{"q": 77, "exam": "AMIB2020", "orig_q": "36", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 78, "exam": "AMIB2020", "orig_q": "37", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 111.5, "tokens": null}
+{"q": 79, "exam": "AMIB2020", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 53.6, "tokens": null}
+{"q": 80, "exam": "AMIB2020", "orig_q": "39", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 81, "exam": "AMIB2020", "orig_q": "40", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.9, "tokens": null}
+{"q": 82, "exam": "AMIB2020", "orig_q": "41", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.1, "tokens": null}
+{"q": 83, "exam": "AMIB2020", "orig_q": "42", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.5, "tokens": null}
+{"q": 84, "exam": "AMIB2020", "orig_q": "43", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.4, "tokens": null}
+{"q": 85, "exam": "AMIB2020", "orig_q": "44", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 86, "exam": "AMIB2020", "orig_q": "46", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.6, "tokens": null}
+{"q": 87, "exam": "AMIB2020", "orig_q": "47", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 8.3, "tokens": null}
+{"q": 88, "exam": "AMIB2020", "orig_q": "48", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.1, "tokens": null}
+{"q": 89, "exam": "AMIB2020", "orig_q": "49", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 3.3, "tokens": null}
+{"q": 90, "exam": "AMIB2020", "orig_q": "50", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.0, "tokens": null}
+{"q": 91, "exam": "AMIB2020", "orig_q": "53", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 16.8, "tokens": null}
+{"q": 92, "exam": "AMIB2020", "orig_q": "54", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.0, "tokens": null}
+{"q": 93, "exam": "AMIB2020", "orig_q": "55", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 25.3, "tokens": null}
+{"q": 94, "exam": "AMIB2020", "orig_q": "56", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.3, "tokens": null}
+{"q": 95, "exam": "AMIB2020", "orig_q": "57", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.0, "tokens": null}
+{"q": 96, "exam": "AMIB2020", "orig_q": "58", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.5, "tokens": null}
+{"q": 97, "exam": "AMIB2020", "orig_q": "59", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 98, "exam": "AMIB2020", "orig_q": "61", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 5.8, "tokens": null}
+{"q": 99, "exam": "AMIB2020", "orig_q": "62", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 100, "exam": "AMIB2020", "orig_q": "63", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.4, "tokens": null}
+{"q": 101, "exam": "AMIB2020", "orig_q": "64", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.3, "tokens": null}
+{"q": 102, "exam": "AMIB2020", "orig_q": "65", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.3, "tokens": null}
+{"q": 103, "exam": "AMIB2020", "orig_q": "66", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.0, "tokens": null}
+{"q": 104, "exam": "AMIB2020", "orig_q": "67", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": null}
+{"q": 105, "exam": "AMIB2020", "orig_q": "68", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.1, "tokens": null}
+{"q": 106, "exam": "AMIB2020", "orig_q": "69", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.7, "tokens": null}
+{"q": 107, "exam": "AMIB2020", "orig_q": "70", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.5, "tokens": null}
+{"q": 108, "exam": "AMIB2020", "orig_q": "71", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.0, "tokens": null}
+{"q": 109, "exam": "AMIB2020", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.0, "tokens": null}
+{"q": 110, "exam": "AMIB2020", "orig_q": "73", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 25.1, "tokens": null}
+{"q": 111, "exam": "AMIB2020", "orig_q": "74", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.9, "tokens": null}
+{"q": 112, "exam": "AMIB2020", "orig_q": "75", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.8, "tokens": null}
+{"q": 113, "exam": "AMIB2020", "orig_q": "76", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.9, "tokens": null}
+{"q": 114, "exam": "AMIB2020", "orig_q": "77", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": null}
+{"q": 115, "exam": "AMIB2020", "orig_q": "78", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 26.6, "tokens": null}
+{"q": 116, "exam": "AMIB2020", "orig_q": "79", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.2, "tokens": null}
+{"q": 117, "exam": "AMIB2020", "orig_q": "80", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.8, "tokens": null}
+{"q": 118, "exam": "AMIB2020", "orig_q": "81", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 14.2, "tokens": null}
+{"q": 119, "exam": "AMIB2020", "orig_q": "82", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.3, "tokens": null}
+{"q": 120, "exam": "AMIB2020", "orig_q": "83", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.4, "tokens": null}
+{"q": 121, "exam": "AMIB2020", "orig_q": "84", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 7.0, "tokens": null}
+{"q": 122, "exam": "AMIB2020", "orig_q": "85", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.5, "tokens": null}
+{"q": 123, "exam": "AMIB2020", "orig_q": "86", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.5, "tokens": null}
+{"q": 124, "exam": "AMIB2020", "orig_q": "87", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 127.6, "tokens": null}
+{"q": 125, "exam": "AMIB2020", "orig_q": "88", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.5, "tokens": null}
+{"q": 126, "exam": "AMIB2020", "orig_q": "89", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 127, "exam": "AMIB2020", "orig_q": "90", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.7, "tokens": null}
+{"q": 128, "exam": "AMIB2021", "orig_q": "1", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.9, "tokens": null}
+{"q": 129, "exam": "AMIB2021", "orig_q": "2", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.4, "tokens": null}
+{"q": 130, "exam": "AMIB2021", "orig_q": "3", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.5, "tokens": null}
+{"q": 131, "exam": "AMIB2021", "orig_q": "4", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.4, "tokens": null}
+{"q": 132, "exam": "AMIB2021", "orig_q": "5", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.8, "tokens": null}
+{"q": 133, "exam": "AMIB2021", "orig_q": "7", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.2, "tokens": null}
+{"q": 134, "exam": "AMIB2021", "orig_q": "8", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 2.8, "tokens": null}
+{"q": 135, "exam": "AMIB2021", "orig_q": "9", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": null}
+{"q": 136, "exam": "AMIB2021", "orig_q": "10", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.5, "tokens": null}
+{"q": 137, "exam": "AMIB2021", "orig_q": "11", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.5, "tokens": null}
+{"q": 138, "exam": "AMIB2021", "orig_q": "12", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.5, "tokens": null}
+{"q": 139, "exam": "AMIB2021", "orig_q": "13", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 140, "exam": "AMIB2021", "orig_q": "14", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.2, "tokens": null}
+{"q": 141, "exam": "AMIB2021", "orig_q": "15", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.1, "tokens": null}
+{"q": 142, "exam": "AMIB2021", "orig_q": "16", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.4, "tokens": null}
+{"q": 143, "exam": "AMIB2021", "orig_q": "17", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": null}
+{"q": 144, "exam": "AMIB2021", "orig_q": "18", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.6, "tokens": null}
+{"q": 145, "exam": "AMIB2021", "orig_q": "24", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.5, "tokens": null}
+{"q": 146, "exam": "AMIB2021", "orig_q": "25", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.5, "tokens": null}
+{"q": 147, "exam": "AMIB2021", "orig_q": "26", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.0, "tokens": null}
+{"q": 148, "exam": "AMIB2021", "orig_q": "27", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": null}
+{"q": 149, "exam": "AMIB2021", "orig_q": "28", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": null}
+{"q": 150, "exam": "AMIB2021", "orig_q": "29", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": null}
+{"q": 151, "exam": "AMIB2021", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": null}
+{"q": 152, "exam": "AMIB2021", "orig_q": "31", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": null}
+{"q": 153, "exam": "AMIB2021", "orig_q": "32", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.0, "tokens": null}
+{"q": 154, "exam": "AMIB2021", "orig_q": "36", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": null}
+{"q": 155, "exam": "AMIB2021", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": null}
+{"q": 156, "exam": "AMIB2021", "orig_q": "39", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": null}
+{"q": 157, "exam": "AMIB2021", "orig_q": "40", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.9, "tokens": null}
+{"q": 158, "exam": "AMIB2021", "orig_q": "41", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.9, "tokens": null}
+{"q": 159, "exam": "AMIB2021", "orig_q": "42", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.8, "tokens": null}
+{"q": 160, "exam": "AMIB2021", "orig_q": "43", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 143.8, "tokens": null}
+{"q": 161, "exam": "AMIB2021", "orig_q": "44", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.0, "tokens": null}
+{"q": 162, "exam": "AMIB2021", "orig_q": "45", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 163, "exam": "AMIB2021", "orig_q": "46", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.2, "tokens": null}
+{"q": 164, "exam": "AMIB2021", "orig_q": "47", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.4, "tokens": null}
+{"q": 165, "exam": "AMIB2021", "orig_q": "48", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.1, "tokens": null}
+{"q": 166, "exam": "AMIB2021", "orig_q": "49", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 167, "exam": "AMIB2021", "orig_q": "50", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.1, "tokens": null}
+{"q": 168, "exam": "AMIB2021", "orig_q": "51", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": null}
+{"q": 169, "exam": "AMIB2021", "orig_q": "52", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.5, "tokens": null}
+{"q": 170, "exam": "AMIB2021", "orig_q": "53", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.8, "tokens": null}
+{"q": 171, "exam": "AMIB2021", "orig_q": "54", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": null}
+{"q": 172, "exam": "AMIB2021", "orig_q": "55", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.4, "tokens": null}
+{"q": 173, "exam": "AMIB2021", "orig_q": "56", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": null}
+{"q": 174, "exam": "AMIB2021", "orig_q": "57", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 21.4, "tokens": null}
+{"q": 175, "exam": "AMIB2021", "orig_q": "58", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 176, "exam": "AMIB2021", "orig_q": "59", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.0, "tokens": null}
+{"q": 177, "exam": "AMIB2021", "orig_q": "61", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.2, "tokens": null}
+{"q": 178, "exam": "AMIB2021", "orig_q": "62", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.3, "tokens": null}
+{"q": 179, "exam": "AMIB2021", "orig_q": "63", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.0, "tokens": null}
+{"q": 180, "exam": "AMIB2021", "orig_q": "64", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.6, "tokens": null}
+{"q": 181, "exam": "AMIB2021", "orig_q": "65", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": null}
+{"q": 182, "exam": "AMIB2021", "orig_q": "66", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 1.5, "tokens": null}
+{"q": 183, "exam": "AMIB2021", "orig_q": "67", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.3, "tokens": null}
+{"q": 184, "exam": "AMIB2021", "orig_q": "68", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": null}
+{"q": 185, "exam": "AMIB2021", "orig_q": "69", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.2, "tokens": null}
+{"q": 186, "exam": "AMIB2021", "orig_q": "70", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.5, "tokens": null}
+{"q": 187, "exam": "AMIB2021", "orig_q": "71", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 45.0, "tokens": null}
+{"q": 188, "exam": "AMIB2021", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.4, "tokens": null}
+{"q": 189, "exam": "AMIB2021", "orig_q": "76", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.8, "tokens": null}
+{"q": 190, "exam": "AMIB2021", "orig_q": "78", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": null}
+{"q": 191, "exam": "AMIB2021", "orig_q": "79", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": null}
+{"q": 192, "exam": "AMIB2021", "orig_q": "80", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.4, "tokens": null}
+{"q": 193, "exam": "AMIB2021", "orig_q": "81", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.8, "tokens": null}
+{"q": 194, "exam": "AMIB2021", "orig_q": "82", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.0, "tokens": null}
+{"q": 195, "exam": "AMIB2021", "orig_q": "84", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.4, "tokens": null}
+{"q": 196, "exam": "AMIB2021", "orig_q": "85", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.0, "tokens": null}
+{"q": 197, "exam": "AMIB2021", "orig_q": "86", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 52.5, "tokens": null}
+{"q": 198, "exam": "AMIB2021", "orig_q": "87", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 199, "exam": "AMIB2021", "orig_q": "88", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.4, "tokens": null}
+{"q": 200, "exam": "AMIB2021", "orig_q": "89", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.2, "tokens": null}
+{"q": 201, "exam": "AMIB2022", "orig_q": "10", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.7, "tokens": null}
+{"q": 202, "exam": "AMIB2022", "orig_q": "12", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.2, "tokens": null}
+{"q": 203, "exam": "AMIB2022", "orig_q": "17", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.9, "tokens": null}
+{"q": 204, "exam": "AMIB2022", "orig_q": "20", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 12.1, "tokens": null}
+{"q": 205, "exam": "AMIB2022", "orig_q": "27", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.0, "tokens": null}
+{"q": 206, "exam": "AMIB2022", "orig_q": "28", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": null}
+{"q": 207, "exam": "AMIB2022", "orig_q": "29", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": null}
+{"q": 208, "exam": "AMIB2022", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.3, "tokens": null}
+{"q": 209, "exam": "AMIB2022", "orig_q": "31", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": null}
+{"q": 210, "exam": "AMIB2022", "orig_q": "32", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.0, "tokens": null}
+{"q": 211, "exam": "AMIB2022", "orig_q": "35", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.6, "tokens": null}
+{"q": 212, "exam": "AMIB2022", "orig_q": "36", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.3, "tokens": null}
+{"q": 213, "exam": "AMIB2022", "orig_q": "37", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": null}
+{"q": 214, "exam": "AMIB2022", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.8, "tokens": null}
+{"q": 215, "exam": "AMIB2022", "orig_q": "39", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.8, "tokens": null}
+{"q": 216, "exam": "AMIB2022", "orig_q": "40", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": null}
+{"q": 217, "exam": "AMIB2022", "orig_q": "41", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.2, "tokens": null}
+{"q": 218, "exam": "AMIB2022", "orig_q": "42", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": null}
+{"q": 219, "exam": "AMIB2022", "orig_q": "43", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.9, "tokens": null}
+{"q": 220, "exam": "AMIB2022", "orig_q": "44", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.8, "tokens": null}
+{"q": 221, "exam": "AMIB2022", "orig_q": "45", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.4, "tokens": null}
+{"q": 222, "exam": "AMIB2022", "orig_q": "48", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.1, "tokens": null}
+{"q": 223, "exam": "AMIB2022", "orig_q": "49", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.1, "tokens": null}
+{"q": 224, "exam": "AMIB2022", "orig_q": "50", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.2, "tokens": null}
+{"q": 225, "exam": "AMIB2022", "orig_q": "51", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": null}
+{"q": 226, "exam": "AMIB2022", "orig_q": "52", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 17.6, "tokens": null}
+{"q": 227, "exam": "AMIB2022", "orig_q": "53", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 15.2, "tokens": null}
+{"q": 228, "exam": "AMIB2022", "orig_q": "54", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.4, "tokens": null}
+{"q": 229, "exam": "AMIB2022", "orig_q": "57", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 99.9, "tokens": null}
+{"q": 230, "exam": "AMIB2022", "orig_q": "58", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": null}
+{"q": 231, "exam": "AMIB2022", "orig_q": "59", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 14.3, "tokens": null}
+{"q": 232, "exam": "AMIB2022", "orig_q": "60", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.4, "tokens": null}
+{"q": 233, "exam": "AMIB2022", "orig_q": "61", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": null}
+{"q": 234, "exam": "AMIB2022", "orig_q": "62", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.6, "tokens": null}
+{"q": 235, "exam": "AMIB2022", "orig_q": "64", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.4, "tokens": null}
+{"q": 236, "exam": "AMIB2022", "orig_q": "65", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": null}
+{"q": 237, "exam": "AMIB2022", "orig_q": "66", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 21.9, "tokens": null}
+{"q": 238, "exam": "AMIB2022", "orig_q": "69", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.9, "tokens": null}
+{"q": 239, "exam": "AMIB2022", "orig_q": "71", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.5, "tokens": null}
+{"q": 240, "exam": "AMIB2022", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.6, "tokens": null}
+{"q": 241, "exam": "AMIB2022", "orig_q": "73", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": null}
+{"q": 242, "exam": "AMIB2022", "orig_q": "75", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.1, "tokens": null}
+{"q": 243, "exam": "AMIB2022", "orig_q": "76", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.2, "tokens": null}
+{"q": 244, "exam": "AMIB2022", "orig_q": "77", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.1, "tokens": null}
+{"q": 245, "exam": "AMIB2022", "orig_q": "79", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": null}
+{"q": 247, "exam": "AMIB2022", "orig_q": "81", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 144.7, "tokens": null}
+{"q": 248, "exam": "AMIB2022", "orig_q": "83", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.0, "tokens": null}
+{"q": 249, "exam": "AMIB2022", "orig_q": "84", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.6, "tokens": null}
+{"q": 250, "exam": "AMIB2022", "orig_q": "85", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.4, "tokens": null}
+{"q": 251, "exam": "AMIB2022", "orig_q": "86", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.1, "tokens": null}
+{"q": 252, "exam": "AMIB2022", "orig_q": "88", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 12.8, "tokens": null}
+{"q": 253, "exam": "AMIB2022", "orig_q": "89", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": null}
+{"q": 254, "exam": "AMIB2023", "orig_q": "2", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.1, "tokens": null}
+{"q": 255, "exam": "AMIB2023", "orig_q": "3", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.6, "tokens": null}
+{"q": 256, "exam": "AMIB2023", "orig_q": "5", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.9, "tokens": null}
+{"q": 257, "exam": "AMIB2023", "orig_q": "8", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.9, "tokens": null}
+{"q": 258, "exam": "AMIB2023", "orig_q": "9", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 16.0, "tokens": null}
+{"q": 259, "exam": "AMIB2023", "orig_q": "10", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.7, "tokens": null}
+{"q": 260, "exam": "AMIB2023", "orig_q": "11", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 32.6, "tokens": null}
+{"q": 261, "exam": "AMIB2023", "orig_q": "12", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": {"in": 6120, "out": 648}}
+{"q": 262, "exam": "AMIB2023", "orig_q": "15", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 20.1, "tokens": {"in": 12691, "out": 1060}}
+{"q": 263, "exam": "AMIB2023", "orig_q": "16", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 17.2, "tokens": {"in": 12779, "out": 934}}
+{"q": 264, "exam": "AMIB2023", "orig_q": "22", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 11.9, "tokens": {"in": 6243, "out": 667}}
+{"q": 265, "exam": "AMIB2023", "orig_q": "25", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 16.9, "tokens": {"in": 12463, "out": 870}}
+{"q": 266, "exam": "AMIB2023", "orig_q": "29", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 14.4, "tokens": {"in": 6108, "out": 830}}
+{"q": 267, "exam": "AMIB2023", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.4, "tokens": {"in": 6062, "out": 744}}
+{"q": 268, "exam": "AMIB2023", "orig_q": "31", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.9, "tokens": {"in": 6155, "out": 871}}
+{"q": 269, "exam": "AMIB2023", "orig_q": "32", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.1, "tokens": {"in": 6135, "out": 580}}
+{"q": 270, "exam": "AMIB2023", "orig_q": "34", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.7, "tokens": {"in": 6110, "out": 627}}
+{"q": 271, "exam": "AMIB2023", "orig_q": "35", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.9, "tokens": {"in": 6175, "out": 275}}
+{"q": 272, "exam": "AMIB2023", "orig_q": "36", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": {"in": 6125, "out": 634}}
+{"q": 273, "exam": "AMIB2023", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.8, "tokens": {"in": 6035, "out": 435}}
+{"q": 274, "exam": "AMIB2023", "orig_q": "39", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.7, "tokens": {"in": 6149, "out": 453}}
+{"q": 275, "exam": "AMIB2023", "orig_q": "41", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": {"in": 6141, "out": 742}}
+{"q": 276, "exam": "AMIB2023", "orig_q": "42", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.1, "tokens": {"in": 6142, "out": 308}}
+{"q": 277, "exam": "AMIB2023", "orig_q": "47", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.3, "tokens": {"in": 6176, "out": 657}}
+{"q": 278, "exam": "AMIB2023", "orig_q": "48", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 32.7, "tokens": {"in": 29675, "out": 1315}}
+{"q": 279, "exam": "AMIB2023", "orig_q": "49", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": {"in": 6105, "out": 859}}
+{"q": 280, "exam": "AMIB2023", "orig_q": "50", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.6, "tokens": {"in": 6133, "out": 418}}
+{"q": 281, "exam": "AMIB2023", "orig_q": "55", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.9, "tokens": {"in": 6246, "out": 957}}
+{"q": 282, "exam": "AMIB2023", "orig_q": "57", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.7, "tokens": {"in": 6212, "out": 735}}
+{"q": 283, "exam": "AMIB2023", "orig_q": "58", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.1, "tokens": {"in": 6262, "out": 782}}
+{"q": 284, "exam": "AMIB2023", "orig_q": "59", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.3, "tokens": {"in": 6687, "out": 308}}
+{"q": 285, "exam": "AMIB2023", "orig_q": "61", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.3, "tokens": {"in": 6313, "out": 829}}
+{"q": 286, "exam": "AMIB2023", "orig_q": "63", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6495, "out": 758}}
+{"q": 287, "exam": "AMIB2023", "orig_q": "64", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6151, "out": 762}}
+{"q": 288, "exam": "AMIB2023", "orig_q": "65", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.8, "tokens": {"in": 6122, "out": 573}}
+{"q": 289, "exam": "AMIB2023", "orig_q": "66", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 13.2, "tokens": {"in": 6197, "out": 756}}
+{"q": 290, "exam": "AMIB2023", "orig_q": "68", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.1, "tokens": {"in": 6193, "out": 423}}
+{"q": 291, "exam": "AMIB2023", "orig_q": "70", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": {"in": 6269, "out": 682}}
+{"q": 292, "exam": "AMIB2023", "orig_q": "71", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.5, "tokens": {"in": 12770, "out": 792}}
+{"q": 293, "exam": "AMIB2023", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.4, "tokens": {"in": 6320, "out": 698}}
+{"q": 294, "exam": "AMIB2023", "orig_q": "73", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 14.5, "tokens": {"in": 6239, "out": 866}}
+{"q": 295, "exam": "AMIB2023", "orig_q": "74", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.9, "tokens": {"in": 6378, "out": 962}}
+{"q": 296, "exam": "AMIB2023", "orig_q": "75", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.5, "tokens": {"in": 6242, "out": 1019}}
+{"q": 297, "exam": "AMIB2023", "orig_q": "76", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.6, "tokens": {"in": 6141, "out": 739}}
+{"q": 298, "exam": "AMIB2023", "orig_q": "79", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.9, "tokens": {"in": 6180, "out": 703}}
+{"q": 299, "exam": "AMIB2023", "orig_q": "80", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.6, "tokens": {"in": 6123, "out": 629}}
+{"q": 300, "exam": "AMIB2023", "orig_q": "81", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.5, "tokens": {"in": 6073, "out": 685}}
+{"q": 301, "exam": "AMIB2023", "orig_q": "82", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 41.6, "tokens": {"in": 21381, "out": 2262}}
+{"q": 302, "exam": "AMIB2023", "orig_q": "83", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6097, "out": 669}}
+{"q": 303, "exam": "AMIB2023", "orig_q": "85", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.3, "tokens": {"in": 6285, "out": 562}}
+{"q": 304, "exam": "AMIB2023", "orig_q": "88", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.0, "tokens": {"in": 6099, "out": 673}}
+{"q": 305, "exam": "AMIB2024", "orig_q": "1", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": {"in": 6107, "out": 673}}
+{"q": 306, "exam": "AMIB2024", "orig_q": "2", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 73.0, "tokens": {"in": 50835, "out": 2847}}
+{"q": 307, "exam": "AMIB2024", "orig_q": "13", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.6, "tokens": {"in": 6230, "out": 304}}
+{"q": 308, "exam": "AMIB2024", "orig_q": "14", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.5, "tokens": {"in": 6125, "out": 925}}
+{"q": 309, "exam": "AMIB2024", "orig_q": "15", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.6, "tokens": {"in": 6192, "out": 462}}
+{"q": 310, "exam": "AMIB2024", "orig_q": "16", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": {"in": 6236, "out": 631}}
+{"q": 311, "exam": "AMIB2024", "orig_q": "17", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 9.4, "tokens": {"in": 6348, "out": 450}}
+{"q": 312, "exam": "AMIB2024", "orig_q": "18", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.6, "tokens": {"in": 6357, "out": 554}}
+{"q": 313, "exam": "AMIB2024", "orig_q": "19", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": {"in": 6168, "out": 521}}
+{"q": 314, "exam": "AMIB2024", "orig_q": "20", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.8, "tokens": {"in": 6156, "out": 846}}
+{"q": 315, "exam": "AMIB2024", "orig_q": "23", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.1, "tokens": {"in": 6094, "out": 690}}
+{"q": 316, "exam": "AMIB2024", "orig_q": "25", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.5, "tokens": {"in": 6039, "out": 262}}
+{"q": 317, "exam": "AMIB2024", "orig_q": "27", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.1, "tokens": {"in": 6082, "out": 297}}
+{"q": 318, "exam": "AMIB2024", "orig_q": "29", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.8, "tokens": {"in": 6350, "out": 816}}
+{"q": 319, "exam": "AMIB2024", "orig_q": "30", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.2, "tokens": {"in": 6046, "out": 404}}
+{"q": 320, "exam": "AMIB2024", "orig_q": "31", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.3, "tokens": {"in": 6367, "out": 969}}
+{"q": 321, "exam": "AMIB2024", "orig_q": "32", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.4, "tokens": {"in": 6079, "out": 552}}
+{"q": 322, "exam": "AMIB2024", "orig_q": "33", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.7, "tokens": {"in": 6118, "out": 666}}
+{"q": 323, "exam": "AMIB2024", "orig_q": "34", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.6, "tokens": {"in": 6392, "out": 749}}
+{"q": 324, "exam": "AMIB2024", "orig_q": "35", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.7, "tokens": {"in": 6160, "out": 543}}
+{"q": 325, "exam": "AMIB2024", "orig_q": "36", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.4, "tokens": {"in": 6244, "out": 317}}
+{"q": 326, "exam": "AMIB2024", "orig_q": "37", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.1, "tokens": {"in": 6080, "out": 422}}
+{"q": 327, "exam": "AMIB2024", "orig_q": "38", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.9, "tokens": {"in": 6136, "out": 804}}
+{"q": 328, "exam": "AMIB2024", "orig_q": "39", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 8.5, "tokens": {"in": 6162, "out": 528}}
+{"q": 329, "exam": "AMIB2024", "orig_q": "42", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.4, "tokens": {"in": 6150, "out": 865}}
+{"q": 330, "exam": "AMIB2024", "orig_q": "50", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.4, "tokens": {"in": 6122, "out": 279}}
+{"q": 331, "exam": "AMIB2024", "orig_q": "51", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6271, "out": 616}}
+{"q": 332, "exam": "AMIB2024", "orig_q": "52", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.1, "tokens": {"in": 6211, "out": 846}}
+{"q": 333, "exam": "AMIB2024", "orig_q": "54", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 3.3, "tokens": {"in": 6130, "out": 152}}
+{"q": 334, "exam": "AMIB2024", "orig_q": "60", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 44.0, "tokens": {"in": 30515, "out": 1704}}
+{"q": 335, "exam": "AMIB2024", "orig_q": "61", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.0, "tokens": {"in": 6059, "out": 260}}
+{"q": 336, "exam": "AMIB2024", "orig_q": "62", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 15.7, "tokens": {"in": 6224, "out": 1029}}
+{"q": 337, "exam": "AMIB2024", "orig_q": "63", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 17.4, "tokens": {"in": 12677, "out": 980}}
+{"q": 338, "exam": "AMIB2024", "orig_q": "64", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": {"in": 6069, "out": 612}}
+{"q": 339, "exam": "AMIB2024", "orig_q": "68", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": {"in": 6261, "out": 696}}
+{"q": 340, "exam": "AMIB2024", "orig_q": "69", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.9, "tokens": {"in": 6210, "out": 820}}
+{"q": 341, "exam": "AMIB2024", "orig_q": "70", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.2, "tokens": {"in": 6190, "out": 801}}
+{"q": 342, "exam": "AMIB2024", "orig_q": "72", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 5.0, "tokens": {"in": 6054, "out": 232}}
+{"q": 343, "exam": "AMIB2024", "orig_q": "73", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6292, "out": 712}}
+{"q": 344, "exam": "AMIB2024", "orig_q": "76", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 11.1, "tokens": {"in": 6099, "out": 513}}
+{"q": 345, "exam": "AMIB2024", "orig_q": "78", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 6.0, "tokens": {"in": 6069, "out": 367}}
+{"q": 346, "exam": "AMIB2024", "orig_q": "80", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.0, "tokens": {"in": 6123, "out": 734}}
+{"q": 347, "exam": "AMIB2024", "orig_q": "84", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 14.9, "tokens": {"in": 6139, "out": 859}}
+{"q": 348, "exam": "AMIB2024", "orig_q": "85", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.2, "tokens": {"in": 6283, "out": 726}}
+{"q": 349, "exam": "AMIB2024", "orig_q": "87", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 13.5, "tokens": {"in": 6333, "out": 782}}
+{"q": 350, "exam": "AMIB2024", "orig_q": "88", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 12.3, "tokens": {"in": 6351, "out": 816}}
+{"q": 351, "exam": "AMIB2021", "orig_q": "34", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.6, "tokens": {"in": 6123, "out": 631}}
+{"q": 352, "exam": "AMIB2021", "orig_q": "20", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": {"in": 6198, "out": 588}}
+{"q": 353, "exam": "AMIB2021", "orig_q": "33", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.0, "tokens": {"in": 6072, "out": 232}}
+{"q": 354, "exam": "AMIB2021", "orig_q": "6", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.8, "tokens": {"in": 6191, "out": 730}}
+{"q": 355, "exam": "AMIB2021", "orig_q": "60", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 9.1, "tokens": {"in": 6246, "out": 570}}
+{"q": 356, "exam": "AMIB2021", "orig_q": "90", "correct": false, "condition": "direct answer (no preamble)", "latency_s": 14.8, "tokens": {"in": 6217, "out": 931}}
+{"q": 357, "exam": "AMIB2021", "orig_q": "21", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 55.0, "tokens": {"in": 45288, "out": 2170}}
+{"q": 358, "exam": "AMIB2021", "orig_q": "74", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 10.1, "tokens": {"in": 6214, "out": 544}}
+{"q": 359, "exam": "AMIB2020", "orig_q": "51", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 4.3, "tokens": {"in": 6301, "out": 223}}
+{"q": 360, "exam": "AMIB2021", "orig_q": "22", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.1, "tokens": {"in": 6122, "out": 254}}
+{"q": 361, "exam": "AMIB2020", "orig_q": "52", "correct": true, "condition": "direct answer (no preamble)", "latency_s": 7.1, "tokens": {"in": 6413, "out": 418}}

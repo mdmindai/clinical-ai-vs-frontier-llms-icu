@@ -1,0 +1,14 @@
+27 documents classified; all 27 doc_ids match the input.
+
+tipo_revisado: diretriz 20, consenso_especialistas 7
+base: pagina 11, texto_completo 9, resumo 5, nao_acessado 2
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_1_out.json
+
+Notes:
+- The two nao_acessado records are PAHO 2024 (label kept as diretriz) and ACOG Committee Opinion 713. ACOG was set to consenso_especialistas because Committee Opinions normally carry no grades, but this was not checked in the document.
+- evidencia_graduada is "nd" for 5 records:
+  - 4 from abstracts that do not state a grading system: AHA/ACC 2024, EASL 2022 cirrhosis, AASLD 2021 Practice Guidance, and the Korean stenosis guideline.
+  - ACOG 713, which was not accessed.
+- Two NAEPP quick references are borderline. The EPR-3 card shows no grades; it is kept as diretriz because it summarizes EPR-3, whose own methods were not opened. The 2004 pregnancy card was set to consenso_especialistas: it is based on a systematic review, but its recommendations carry no grades.
+- The web search budget for this session ran out partway through. The remaining checks used direct page fetches, NCBI E-utilities, Europe PMC and a public EASL DILI PDF already in the shared scratchpad.

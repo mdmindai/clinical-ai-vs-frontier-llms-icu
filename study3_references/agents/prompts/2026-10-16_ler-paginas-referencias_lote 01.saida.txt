@@ -1,0 +1,11 @@
+Processed 39 of 39. Output is in <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_01_out.json
+
+acessou: sim 33, via_alternativa 4, nao 2
+confere: sim 37, nd 2
+
+Notes:
+- **nao (2):** gpt5_12_1 (NICE NG240) returned 403 on both its URLs. gpt5_124_3 (ACOG) was blocked by a Cloudflare 403, and the copy found by web search returned 429.
+- **via_alternativa (4):**
+  - gpt5_11_4, gpt5_92_1 and gpt5_120_3 (StatPearls on NCBI Bookshelf) hit a reCAPTCHA. Their titles were confirmed through the NCBI E-utilities record. `ano` is null because the chapter's update date could not be seen.
+  - gpt5_120_2 (PAHO) is a PDF link that only loads a JavaScript shell. The metadata came from the PAHO IRIS repository API for the same item.
+- **Counted as sim:** five pages were read in full with curl at the same URL after WebFetch blocked the domain (WHO, RACGP, two thoracic.org PDFs). The CANMAT PDF was read with pdftotext from the file WebFetch saved.

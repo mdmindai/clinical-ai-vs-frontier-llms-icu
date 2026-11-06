@@ -1,0 +1,11 @@
+87 items classified; output in <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_4_leitorB2.json
+
+estudo_observacional: 42
+revisao_narrativa: 14
+diretriz: 10
+relato_caso: 6
+consenso_especialistas: 5
+ensaio_clinico: 4
+revisao_sistematica_metanalise: 3
+outro: 3
+livro_capitulo: 0

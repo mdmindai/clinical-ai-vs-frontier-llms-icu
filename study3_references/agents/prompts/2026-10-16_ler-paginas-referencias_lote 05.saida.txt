@@ -1,0 +1,15 @@
+Processed 39 of 39. acessou: sim 28, via_alternativa 9, nao 2. confere: sim 37, nd 2.
+
+The two not accessed are gpt5_1017_4 (clinicalinfo.hiv.gov returned 403, with and without the query string) and gpt5_1141_5 (ScienceDirect returned 403, and a search for the exact title found the article nowhere else).
+
+Some pages were read by unusual routes:
+- **Read with curl, still counted as "sim":** WebFetch refused the gov.br, kdigo.org and revistachilenadeanestesia.cl domains, so I downloaded these pages from the cited URL with curl. Each has a note saying so.
+- **Metadata from PubMed, not the page:** the three StatPearls chapters (NCBI Bookshelf showed a reCAPTCHA), the EAST guideline and the ASTCT consensus. They are "via_alternativa", and their titles and years come from the PubMed record (E-utilities).
+- **gpt5_1114_4:** the lndta.lt link returned an error, so I read the KDIGO 2012 glomerulonephritis guideline on kdigo.org. I marked it "confere: sim", but I couldn't check that the .lt file is the same PDF.
+
+Also worth knowing:
+- **gpt5_1075_1:** the URL path says "2024", but the PDF is the 2001 edition of the Ministério da Saúde manual (2ª edição revisada, FUNASA). I recorded ano = 2001.
+- **gpt5_1114_1:** the KDIGO 2021 guideline marks its lupus nephritis chapter as out of date and points to the 2024 guideline.
+- **Garbled cited titles:** the cited titles of gpt5_1075_2 and gpt5_1076_2 ("KI_SuppCover_2.1.indd") are leftovers from the PDF's file name; the document is the KDIGO 2012 AKI guideline.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_05_out.json

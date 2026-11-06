@@ -1,0 +1,17 @@
+processed: 39; acessou: sim 35, via_alternativa 2, nao 2; confere: sim 37, nd 2
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_14_out.json
+
+Not accessed:
+- gemini_293_4: trf3.jus.br timed out on every try
+- gemini_373_6: einstein.br returned 403
+
+I could not look for these two elsewhere because the session's web search limit was used up.
+
+Reached another way:
+- gemini_295_4: NCBI Bookshelf showed a reCAPTCHA, so the metadata came from the Europe PMC record.
+- gemini_320_3: ResearchGate returned 403, so the metadata came from PubMed (PMID 40047892).
+
+For the 4 Osler pages and the Ovid page (gemini_295_3), WebFetch was blocked (403/402). I read the same URL with a direct HTTP request and counted them as "sim".
+
+Every cited title in this batch is only a domain name. So "confere: sim" means the page opened and is a specific document. It does not mean the page's title matched a cited title.

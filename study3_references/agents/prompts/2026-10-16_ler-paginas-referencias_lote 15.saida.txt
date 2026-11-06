@@ -1,0 +1,18 @@
+Processed: 39
+acessou: sim 32, via_alternativa 3, nao 4
+confere: sim 32, parcial 3, nd 4
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_15_out.json
+
+Notes:
+- **Domain-only cited titles:** every `titulo_citado` in this batch is just a domain name. So `confere` = "sim" only means the page was a real document on that domain. It does not check a specific cited title.
+- **parcial (3):**
+  - The Conitec link is a general FAQ page.
+  - The 2016 cardiology congress link is a circular with ads.
+  - The Osler link is a residency-exam question page.
+- **nao (4):** two Instagram posts (login wall), Vetsmart (403, and the URL points to a veterinary product page), and Medscape PT (402/403).
+- **via_alternativa (3):**
+  - The SciELO RAMB PDF returned a 502, so I used the HTML version of the same article.
+  - The MDPI page returned a 403, so I took the metadata from Crossref by DOI.
+  - The Osler page was blocked for WebFetch, so I read it with curl.
+- **HCor sepsis protocol:** no year appears on the document, so `ano` is null (the PDF's file metadata says 2023).

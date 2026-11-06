@@ -1,0 +1,3 @@
+tipo_revisado: consenso_especialistas 22, diretriz 5 (4 graded: WHO strongyloidiasis, both copies of the polymyxin consensus, SBA; plus 1 kept as diretriz unaccessed).
+base: texto_completo 24, pagina 2, nao_acessado 1 (the Scribd FEBRASGO copy is blocked, so its label was kept).
+Total 27. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_7_out.json

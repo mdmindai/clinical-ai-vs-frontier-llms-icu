@@ -1,0 +1,11 @@
+Processed: 39
+acessou: sim 28, via_alternativa 8, nao 3
+confere: sim 36, nd 3
+
+File: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_04_out.json
+
+Caveats:
+- WebFetch was blocked on three gov.br pages (gpt5_752_1, gpt5_752_3, and the CONITEC protocol gpt5_748_1). For the first two I read the same URL with curl and coded them "sim". gpt5_748_1 returned a maintenance page, so I read it at the URL with "/@@display-file/file" removed and coded it "via_alternativa". On that page the year is null.
+- Four "via_alternativa" items rest only on search results, not a page I opened: gpt5_820_1, gpt5_835_1, gpt5_872_3 and gpt5_872_4. gpt5_789_6 was matched by title via search. gpt5_703_1's year (2022) comes from a search snippet.
+- I coded "confere = sim" for four items whose titulo_citado is empty or says nothing about the document (gpt5_748_1, gpt5_820_2, gpt5_889_4, gpt5_889_2). The page is the document at that URL, but there was no cited title to compare against.
+- Judgment calls on "tipo": three institutional protocols are coded "outro" (gpt5_820_2, gpt5_889_4, and the MGFA brochure gpt5_789_2), but eviQ (gpt5_820_3) is coded "diretriz". The two MGFA web pages have only a copyright year, so "ano" is null. For DailyMed labels, "ano" is the later of the revised and updated dates.

@@ -1,0 +1,14 @@
+I processed 39 references.
+
+- acessou: sim 31, via_alternativa 3, nao 5
+- confere: sim 33, parcial 1, nao 0, nd 5
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_12_out.json
+
+- **Read with curl:** WebFetch could not open several Brazilian sites (it said it could not confirm the domain was safe) and failed on several PDFs. I read those with curl and pdftotext instead, and the `nota` field says so for each one.
+- **Not accessed (5):**
+  - The drogasil.com.br drug-label page, provaderesidencia.com.br and the mdedge.com PDF all returned 403.
+  - The USP repository page (observatorio.fm.usp.br) showed an anti-bot check.
+  - The Instagram link needs a login.
+- **mdedge PDF:** its file name suggests a known article on correcting INR before paracentesis, but I couldn't confirm that, so it stays "nao".
+- **Every `titulo_citado` in this batch is just the site's domain name.** So `confere` = "sim" here only means the page is a real document at that address, not that its title matches a title the system gave.

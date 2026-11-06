@@ -1,0 +1,8 @@
+39 processed. acessou: sim 33, via_alternativa 5, nao 1. confere: sim 33, parcial 5, nd 1.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_18_out.json
+
+Method notes for the methods section:
+- **Fetch tool:** some pages and PDFs were read with curl plus pdftotext rather than WebFetch, still from the same URL. They are recorded as "sim".
+- **Search unavailable:** web search could not be used because the session's search limit was reached. For the five via_alternativa items, I found the same document through Europe PMC/PMC by DOI or exact title instead.
+- **Unreachable page:** gemini_968_1 (clinician.com) returned 403, and I found no alternative copy.

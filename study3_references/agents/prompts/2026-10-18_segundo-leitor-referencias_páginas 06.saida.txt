@@ -1,0 +1,13 @@
+Processed: 39
+acessou: sim 29, via_alternativa 5, nao 5
+confere: sim 32, parcial 2, nao 0, nd 5
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_06_out.json
+
+- The session's web search limit ran out (200 of 200), so web search was never available as an alternative for this batch.
+- The 5 alternative reads came from bibliographic database records instead: Europe PMC (3 NCBI Bookshelf pages behind reCAPTCHA, and the Gut paper) and Crossref (a ScienceDirect paper that returned 403).
+- These 5 could not be read at all:
+  - 2 heart.org pages returned 403.
+  - ispub.com was blocked by Cloudflare.
+  - Medscape returned 402.
+  - The davidsosapsiquiatra blog loaded only the site's shell, with no article content.

@@ -1,0 +1,19 @@
+Processed: 39
+acessou: sim 31, via_alternativa 8, nao 0
+confere: sim 39, parcial 0, nao 0, nd 0
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_02_out.json
+
+Method caveats:
+- **Web search unavailable:** the session's web search limit (200 of 200) was used up, so no item could use the "search for the exact title" fallback.
+- **The 8 via_alternativa items were found on Europe PMC:**
+  - Title lookups in its REST API: gpt5_206_2, gpt5_262_1, gpt5_262_2, gpt5_290_3, gpt5_185_1.
+  - Matching the NCBI Bookshelf ID through Europe PMC (NCBI showed a CAPTCHA): gpt5_217_4, gpt5_360_5.
+  - The PMC copy of the article: gpt5_201_5.
+- **Metadata only, not the full page:** for gpt5_206_2, gpt5_262_1, gpt5_262_2 and gpt5_290_3, the details came from the Europe PMC record rather than the article page.
+- **Read from the same URL with curl after WebFetch returned 403:** gpt5_360_4 (NICE).
+- **Read with pdftotext:** the PDF text for gpt5_282_7, gpt5_360_7 and gpt5_373_1. For gpt5_282_7, WebFetch's summary had wrongly named it an ischemic-stroke guideline; the PDF is the 2023 AHA/ASA aneurysmal SAH guideline.
+- **Lower-certainty matches:**
+  - gpt5_185_1 (empty cited title) is matched only by the SciSpace URL slug, because the SciSpace PDF came back empty twice.
+  - gpt5_373_1 also has an empty cited title, so it was judged by its URL.
+  - For gpt5_360_7, the cited title is a section heading inside the GINA 2026 Summary Guide.

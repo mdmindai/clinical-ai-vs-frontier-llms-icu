@@ -1,0 +1,10 @@
+<internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_4_out.json (n=27)
+
+tipo_revisado: diretriz 23, consenso_especialistas 4 (AAST rhabdo consensus document, ASRA 2008 practice advisory, ACR Appropriateness Criteria RUQ pain, MS/FUNASA animal-venom manual)
+
+base: texto_completo 17, resumo 6, pagina 3, nao_acessado 1 (AHA PE 2026 science-news page, returned 403, kept as diretriz; the URL points to a news summary, not to the guideline itself)
+
+Notes:
+- **HCM 2024 AHA/ACC (pmid:38727647):** kept as diretriz with evidencia_graduada "nd". The full text was blocked, and the abstract does not show COR/LOE.
+- **KDIGO GN 2012:** the cited link returned HTTP 500, so I read the official kdigo.org copy instead.
+- **SIR "Consensus Guidelines":** classified as diretriz because it uses SIR class of recommendation and level of evidence.

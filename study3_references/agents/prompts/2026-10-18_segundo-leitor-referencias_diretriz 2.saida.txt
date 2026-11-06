@@ -1,0 +1,12 @@
+27 docs written to <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_2_out.json
+
+tipo_revisado: diretriz 17, consenso_especialistas 10
+base: texto_completo 16, resumo 6, pagina 4, nao_acessado 1
+
+Caveats:
+- evidencia_graduada is "nd" for 4 docs. Three were judged from the abstract only, with the full text blocked: ASRA 5th ed., ABN lumbar puncture, and the 2023 AF guideline. The fourth is the ACC hypertriglyceridemia Expert Consensus Decision Pathway (PMID 34332805), which could not be opened at all. ASRA and AF keep the label diretriz. ABN is classed as consenso_especialistas from its abstract.
+- The ACC pathway has no PubMed abstract and its JACC page returned 403. I could not see the label it came in with, so I set consenso_especialistas based on its title.
+- The ACOG Committee Opinion 692 call (consenso_especialistas, no grading) rests on the abstract only, because the full text is behind a paywall.
+- The 2026 GINA Summary Guide is consenso_especialistas: the cited summary document has no evidence grading, though the full GINA report, which was not cited, uses evidence levels A-D.
+- The 4 IDSA AMR Guidance items (2 pages, 2 tables) are consenso_especialistas, because the document states that GRADE methodology is not employed.
+- I could not run web searches because the session had used all 200 allowed searches. I worked only from direct fetches, PubMed/PMC queries and downloaded PDFs.

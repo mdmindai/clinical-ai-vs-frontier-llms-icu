@@ -1,0 +1,11 @@
+Counts by type (87 items):
+- estudo_observacional: 42
+- revisao_narrativa: 16
+- diretriz: 10
+- relato_caso: 6
+- consenso_especialistas: 6
+- ensaio_clinico: 4
+- revisao_sistematica_metanalise: 2
+- outro: 1
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_4_leitorA2.json

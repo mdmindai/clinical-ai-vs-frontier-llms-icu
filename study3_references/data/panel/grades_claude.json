@@ -1,0 +1,3202 @@
+{
+ "4": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "12": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 4
+  }
+ },
+ "35": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "93": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "126": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "178": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "201": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "262": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "290": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 1,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "320": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "361": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "446": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "495": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "623": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "679": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  }
+ },
+ "714": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "752": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 3
+  }
+ },
+ "820": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "887": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "968": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  }
+ },
+ "1035": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "1086": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  }
+ },
+ "1140": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "1185": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "1210": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  }
+ },
+ "5": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "19": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  }
+ },
+ "53": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  }
+ },
+ "120": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "130": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "179": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "206": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "268": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "292": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "336": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "373": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "447": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "519": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "642": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "680": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "715": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "755": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "835": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "889": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 2
+  }
+ },
+ "989": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "1043": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "1090": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "1141": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 2,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "1192": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 2,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "1228": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 2
+  }
+ },
+ "9": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "21": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "87": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  }
+ },
+ "123": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "137": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 1,
+   "recency": 2,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "184": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "217": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "275": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "293": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 2,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "340": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "389": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 4
+  }
+ },
+ "481": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "567": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "647": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "700": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "745": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 2
+  }
+ },
+ "789": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "853": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "955": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "1017": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "1075": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "1102": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "1164": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "1198": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "1254": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "11": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "25": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 2,
+   "evidence_level": 1,
+   "recency": 3,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "92": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "124": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "138": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "185": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 2,
+   "evidence_level": 1,
+   "recency": 2,
+   "sufficiency": 1
+  }
+ },
+ "249": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "282": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "295": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "360": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 2
+  }
+ },
+ "416": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 1,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "493": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ },
+ "571": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "657": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  }
+ },
+ "703": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 2,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 1
+  }
+ },
+ "748": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 2
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 2,
+   "sufficiency": 3
+  }
+ },
+ "791": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "872": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "967": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 4
+  }
+ },
+ "1029": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 2,
+   "sufficiency": 3
+  }
+ },
+ "1076": {
+  "A": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 3,
+   "sufficiency": 2
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 2,
+   "sufficiency": 2
+  }
+ },
+ "1114": {
+  "A": {
+   "relevance": 2,
+   "evidence_level": 1,
+   "recency": 3,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "D": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "1171": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "B": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  }
+ },
+ "1205": {
+  "A": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 4
+  },
+  "C": {
+   "relevance": 3,
+   "evidence_level": 3,
+   "recency": 4,
+   "sufficiency": 3
+  },
+  "D": {
+   "relevance": 1,
+   "evidence_level": 1,
+   "recency": 1,
+   "sufficiency": 1
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 3,
+   "sufficiency": 3
+  }
+ },
+ "1258": {
+  "A": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  },
+  "B": {
+   "relevance": 4,
+   "evidence_level": 3,
+   "recency": 3,
+   "sufficiency": 3
+  },
+  "C": {
+   "relevance": 2,
+   "evidence_level": 1,
+   "recency": 2,
+   "sufficiency": 1
+  },
+  "D": {
+   "relevance": 3,
+   "evidence_level": 2,
+   "recency": 4,
+   "sufficiency": 2
+  },
+  "E": {
+   "relevance": 4,
+   "evidence_level": 4,
+   "recency": 4,
+   "sufficiency": 4
+  }
+ }
+}

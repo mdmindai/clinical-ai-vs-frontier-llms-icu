@@ -1,0 +1,7 @@
+# aggregate_panel.py (versions that produced the published results; Python 3.9)
+numpy==2.0.2
+scipy==1.13.1
+# judge_panel.py (re-run the judges; API keys needed)
+openai
+anthropic
+httpx

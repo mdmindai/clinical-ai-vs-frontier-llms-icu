@@ -1,0 +1,111 @@
+idx,sub_domain,smart_score,pergunta
+4,pharmacology_drug,5,Empaglifozina pode fazer acidose metabólica?
+5,sepsis_infection,5,Qual antibiótico faz mais farmacodermia? Mero ou teico?
+9,pharmacology_drug,(pick),Dose ketamina para depressão
+11,ventilation_airway,5,Dose dexametasona para edema glote na extubação com estridor
+12,sepsis_infection,5,Tempo de tratamento para meningite por meningococo?
+19,coagulation_hematology,5,Como fazer a rotacão de ticagleror para clopidogrel? E quanto tempo de segurança para fazer uma cirurgia de amputação de perna
+21,pharmacology_drug,5,"Paciente histórico de epilepsia em uso levotiracetam 500mg 12/12h, carbamazepina 200mg 12/12h, ácido valproico 500mg 12/12h, lamotrigina 100mg 12/12h, amitriptilina e propranolol, última medicação adicionada há 10 dias foi levotiracetam. Evoluiu nas últimas 36h com rash cutâneo e eosinofilia, qual possível medicação causadora de uma possível farmacodermia? E quais alterações nas medicações faria?"
+25,pharmacology_drug,5,Mirtazapina pode fazer acidose metabólica?
+35,neuro_critical,5,Botulismo sintomas clínicos
+53,guidelines_other,(pick),Qual o tratamento da PAN?
+87,pharmacology_drug,5,"Psicose pelo corticoide, qual tratamento"
+92,diagnosis_workup,5,Embolia gordurosa
+93,ventilation_airway,5,Como ventilar mecanicamente uma disfunção de ventrículo direito
+120,ventilation_airway,5,Vni em gestante
+123,pharmacology_drug,5,Quero sabe se posso te dar corticoide inalatorio e/ou venoso na paciente gestante 26 semanas com broncoespasmo
+124,pharmacology_drug,5,"Paciente 26 semanas gestação, intensa síndromes respiraria por influenza A e broncoespasmo exacerbado já possui histórico de asma, posso fazer corticoide ev e inalatoria?"
+126,diagnosis_workup,5,Hepatite medicamentosa na UTI
+130,pharmacology_drug,5,"Faz sentido, e não estou usando do mesmo mecanismo, associar dimenidrinato, metoclopramida, ondansetrona e domperidona"
+137,neuro_critical,5,Fenobarbital na miastenia gravis
+138,neuro_critical,5,ISRS para miastenia gravis
+178,ventilation_airway,5,E no contexto de SDRA por embolização séptica… quais as condutas?
+179,sepsis_infection,5,"Caso é o seguinte.
+Paciente ficou internada 7 dias por hipoglicemia e usou acesso venoso central. Melhorou e foi de alta. 
+Retornou com um abscesso cervical, onde usou o acesso. 
+Hemocultura com Staphylo aureus sensível a oxacilinina.
+Foi de alta com Clindamicina 7 dias.
+Retornou com sepse. Ecocardiograma com suspeita de endocardite. Fez uso de oxacilina, mas piorou leucograma e a parte pulmonar. Foi intubada hoje e desenvolveu SDRA. Qual o melhor antibiótico?"
+184,sepsis_infection,5,Tratamento colite pseudomembranosa
+185,ventilation_airway,5,Qual corticoide mais indicado na estenose de traqueia pós intubação
+201,neuro_critical,5,Diferenciar guillain barret de polineuromiopatia do doente crítico
+206,coagulation_hematology,5,Posso fazer paracentese em cirrotica com RNI 3?
+217,sepsis_infection,5,Tratamento strongiloidíase disseminada
+249,sepsis_infection,5,Qual o antibiótico profilático para fratura de ossos da face e fístula liquorica
+262,coagulation_hematology,5,Quanto tempo antes de uma punção lombar deve se suspender anticoagulantes inibidores do fator X
+268,diagnosis_workup,5,"Paciente com alterações do nível neurológico, liquor com consumo de glicose leve e predomínio celular de mono nucleares, apresentando imagem hepática sugestiva de cirrose. Qual as principais hipóteses diagnósticas ?"
+275,pharmacology_drug,5,Dose de colchicina no pós operatório de cirurgia cardiaca
+282,neuro_critical,5,"Me ajude com este caso: paciente de 50 anos com hemorragia subaracnoidea aneurismatica, fez embolização de aneurisma roto de artéria comunicante anterior. Está com DVE. Se encontra numa classificação Fischer 4 e Hunt Hess 2."
+290,neuro_critical,5,Prognóstico em HSA conforme escala de Fischer?
+292,sepsis_infection,5,Qual a dose de polimixina b para o tratamento de acinetobacter multi resistente?
+293,glycemic_metabolic_nutrition,5,Hipertrigliceredemia (1100) sem pancreatite está indicado tratar com Insulina em BIC?
+295,sepsis_infection,5,Há algum benefício em associar Azitromicina ao unasyn em casos de pneumonia aspirativa?
+320,neuro_critical,5,Qual o tempo máximo que se pode esperar para uma descompressão cirúrgica de um hematoma epidural cervical com défict neurológico
+336,neuro_critical,5,"Paciente com Misatenia Gravis em primeira crise. Pela impossibilidade de realizar imunoglobulina se optou por Plasmaférese; porém na fase final de plasmaférese foi autorizado pela parte burocrática o uso de imunoglobulina. Optei por não realizar imunoglobulina e finalizar as sessões de plasmaférese; e optei por somente se não resposta a plasmaférese realizar a imunoglobulina, estou correto?"
+340,hemodynamics_shock,5,Qual a dose de manutenção do azul de metileno para síndrome vasoplegica pós CEC?
+360,hemodynamics_shock,5,"Me ajude com este caso:paciente no 4o po de cesárea do pré-eclampsia grave. Associada a quadro de exacerbação de asma por IVAS. Em uso de oseltamivir, ceftriaxona e azitromicina, losartana 100mg/dia, metildopa 750mg/dia, anlodipino 5mg/dia , hidrocortisona 100mg dia, salbutamol 100mcg 6x/dia, fluticasona 55mcg 1x/dia, acetilcisteina 200mg de 8/8h, ipatropio 40gotas 4x/dia, formoterol + budesonida 2jatos 2x/dia. Ainda com escapes pressóricos e um pouco de broncoespasmo."
+361,sepsis_infection,5,Associação de ertapenm e meropenem pra kpc?
+373,hemodynamics_shock,5,Principais medicações para hipertensão na síndrome HELLP pós cesárea com a sequência mais indicada para início das medicações e doses?
+389,renal_electrolytes_acidbase,5,"Paciente internado em uti. 
+Suspeita de meningite, sem diagnóstico definitivo.
+Tem sódio de 174, está poliurico, disglicemico, sodio urinário de 63, osmolaridade urinária de 326. Qual o diagnóstico?"
+416,pharmacology_drug,5,Qual procinetico gástrico posso usar em paciente com suspeita de crise dopaminergica ou serotoninergica?
+446,ventilation_airway,5,Revisão explicativa e didática sobre pressão transpulmona na ventilação mecânica e na ventilação espontânea
+447,coagulation_hematology,5,Dose de apixabana para anticoagulação com TFG 19
+481,diagnosis_workup,5,"Homem de 37 anos, com exposição a área de mata e lixo. Apresenta se com dor ventilatorio dependente, parestesias, febre, plaquetopenia, transaminases e bilirrubinas aumentadas e insuficiência renal aguda. Al disso evolui com insuficiencia respiratoria por hemorragia alveolar."
+493,sepsis_infection,5,"Antifúngico para dermatofitose em doente crítico, na indisponibilidade de via oral, posso usar fluconazol EV? Teria diferença em relação ao esquema oral 1x/semana?"
+495,sepsis_infection,5,Qual o tratamento para esta condição: Pneumonia associada ventilação mecânica por stenotrophomonas maltophilia?
+519,sepsis_infection,5,Choque séptico urinário por Pseudomonas resistente a Tazocin; Amicacina pode ser utilizado (sensibilidade in vitro)?
+567,hemodynamics_shock,5,Como fazer uma diluição de azul de metileno no choque septico refratário
+571,coagulation_hematology,5,Diferença entre púrpura trombocitopenica idiopática e Ptt e seus respectivos manejos em uti
+623,hemodynamics_shock,5,"Miocardite aguda com disfunção de VE; mantendo taquicardia… sem sinais de má perfusão… sem resposta à Dobutamina, pode haver benefício em beta bloqueador; mesmo em baixa dose de noradrenalina?"
+642,hemodynamics_shock,5,Efeito do cor pulmonale na variação de pressão de pulso
+647,sepsis_infection,5,Pacientes imunodeprimidos; vale a pena tratar hifas e fungos em BAL em pacientes com choque séptico pulmonar sem etiologia definida?
+657,coagulation_hematology,5,Goodpasture tratamento com plasmaférese está indicado associar imunoglobulina?
+679,ventilation_airway,5,"Avaliação do teste de respiração espontânea em paciente com nível de consciência prejudicado, sem despertar efeito, sem sedação, com patologia de base que o fez estar intubado um AVC hemorrágico com ICH de 3"
+680,neuro_critical,5,"Paciente masculino, 81 anos, previamente conhecido apenas com HPB, da entrada na emergência por rebaixamento súbito do nível de consciência, sinais vitais estáveis, laboratoriais sem alterações, Tomografia de crânio de admissão com AVC hemorrágico frontotemporal pontuando 3 pontos na escala ICH (Glasgow, idade e volume do hematoma), em menos de 24h evolui com piora do padrão neurológico e padrão respiratório, feita nova TC de crânio com aumento do sangramento, avaliado pela neurocirurgia 2x durante esse período, ambas sem indicação de abordagem cirúrgica, evolui para intubação orotraqueal,  está há 7 dias completos sem sedação para avaliar despertar, sem despertar, sem abertura ocular, sem obedecer comandos, reflexos de tronco presentes. Me aponte o prognóstico e próximas condutas mais adequadas do ponto de vista técnico e humano possível"
+700,coagulation_hematology,5,Qual o risco de transformação hemorrágica em infartos esplênicos com anticoagulação
+703,pharmacology_drug,5,Benzodiazepinico em paciente com miastenia gravis
+714,pharmacology_drug,5,Levomepromazina pode ser usada em miastenia gravis?
+715,pharmacology_drug,5,Amitriptilina pode ser usada em pacientes com miastenia gravis?
+745,glycemic_metabolic_nutrition,5,Transição de hidrocortisona para Fludrocortisona precisa de uma “ponte”?
+748,pharmacology_drug,5,Em pacientes com distúrbio bipolar em uso de lítio e carbamazepina; em situações que não se pode usar lítio qual a dose máxima de carbamazepina isolada que se pode usar?
+752,neuro_critical,5,Pcte com ventriculite em uso de atb e entrar em morte encefálica. Pode doar órgãos
+755,sepsis_infection,5,Dose bactrim para Stenotrophomonas no lavado bronco alveolar em paciente dialitico
+789,ventilation_airway,,Ventilação mecânica na miastenia gravis!?
+791,hemodynamics_shock,5,"Causas e fluxograma de investigação de BAVT, em paciente jovem, sem doença cardíaca estrutural"
+820,toxicology_overdose,5,Protocolo de intoxicação por metotrexate
+835,coagulation_hematology,5,Para TEP com leve disfunção de VD; qual o tempo e a maneira de fazer a transição para NOAC? E qual o NOAC de escolha?
+853,ventilation_airway,5,Desmame ventilatorio no paciente com doença neuromuscular 
+872,ventilation_airway,5,Me explique a adaptação da ventilação mecânica e sua mecânica ventilatória em paciente com padrão restritivo e obstrutivo pulmonar
+887,sepsis_infection,5,Qual o tempo de tratamento para ventriculite por acinetobacter multiR com Polimixina intra ventricular?
+889,sepsis_infection,5,"Tratamento de germes multiR, como acinetobacter multirresistente; tempo de tratamento pode ser baseado em clínica e não em tempo pré determinado? Para pulmão e para casos de infecção de grandes queimados em biópsia de pele?"
+955,diagnosis_workup,5,Colecistite alitiásica no doente crítico
+967,renal_electrolytes_acidbase,5,Porque a administração de bicarbonato pode piorar a acidose respiratória
+968,renal_electrolytes_acidbase,5,Quais estudos suportam a alcalinizarão da urina como medida protetora em casos de rabdomiolise
+989,diagnosis_workup,5,"Paciente com 72 anos, ex-tabagista, interna com quadro de vômitos após uso de tramal por dor nas costas. Possui fenômeno de Raynaud, e rash malar
+Evolui com piora ventilatória. 
+Possui hemograma com leucocitose e desvio até metamielócitos. Pcr elevado, vhs elevado, FAN reagente 1:320 - placa metafásico cromossômica, fator reumatóide reagente. C4 normal, C3 no limite superior da normalidade. Anti-Sm negativo, anti-LA negativo, anti-CCP não reagente, ANCA não reagente, HIV não reagente, VDRL não reagente, HbsAG não reagente.
+Quais hipóteses diagnósticas devo pensar e quais exames solicitar"
+1017,sepsis_infection,5,Quais is métodos diagnósticos e sua sensibilidade para diagnostico de histoplasmose disseminada
+1029,diagnosis_workup,5,"Diagnósticos diferenciais para mulher, 60 anos, com hepatopatia a esclarecer, padrão tomográfico de deposição de gordura, bilirrubina direta aumentada, gama gt e fosfatase alcalina aumentadas, transaminases normais"
+1035,diagnosis_workup,5,"Me ajude com este caso: paciente com múltiplos nódulos pulmonares suspeitos para malignidade, plaquetopenia persistente, gama gt elevada e hiperbilirrubinemia direta sem sinais de obstrução de vias biliares"
+1043,diagnosis_workup,5,"Quais os diagnósticos diferenciais para uma paciente de 45 anos, com doença de crohn, apresentando se com plaquetopenia grave, anemia, ictericia com bilirrubinas diretas aumentadas, exames de imagem sem obstrução de vias biliares, gama gt aumentada"
+1075,toxicology_overdose,5,Há indicação de hemodiálise precoce em paciente picado por loxoceles?
+1076,toxicology_overdose,5,Indicação de hemodiálise precoce na picada de loxoxeles
+1086,neuro_critical,5,Existe associação raquianestesia com mielite isquemica
+1090,hemodynamics_shock,5,Cardiopatia hipetrófica. Manejo hemodinamico
+1102,hemodynamics_shock,5,Hipertensao pulmonar na esclerose sistêmica
+1114,sepsis_infection,5,Explique sobre a glomerulopatia na endocardite infecciosa e explique diagnóstico + tratamento
+1140,neuro_critical,5,Por que o tratamento biespecifico pode causar edema cerebral?
+1141,neuro_critical,5,Edema cerebral após tocilizumabe
+1164,pharmacology_drug,5,Tratamento de linfoma de grandes células B com imunobiológico e reação da liberação de citocinas
+1171,diagnosis_workup,5,Tétano com apresentação clínica apenas de trismo
+1185,hemodynamics_shock,5,Grade de evidência do azul de metileno em choque refratario
+1192,coagulation_hematology,5,Qual dose de heparina profilaxia em paciente dialítico?
+1198,pharmacology_drug,5,Febre associada ao uso clonidina
+1205,hemodynamics_shock,5,Paciente com hemorragia digestiva varicosa em uso de dose baixa de noradrenalina precisa utilizar terlipressina ou octreotide?
+1210,glycemic_metabolic_nutrition,5,Me resuma cuidados e caso haja necessidade e de corticoide em paciente no pós operatório de adrenalectomia por suspeita de hiperaldoateronismo primário
+1228,toxicology_overdose,5,Intoxicação por cianeto em quanto dias após ainda tem indicação de hidroxocobalamina
+1254,hemodynamics_shock,5,Manejo clinica do paciente com insuficiencia cardiaca descompensaca com choque cardiogenico e estenose aortica severa
+1258,neuro_critical,5,O que se tem sobre condutas em íleo adinâmico é disautonomia intersticial em pacientes com doença desmielinizante crônica?

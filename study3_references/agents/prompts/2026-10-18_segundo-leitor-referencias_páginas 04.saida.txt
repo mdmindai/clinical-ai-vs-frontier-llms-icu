@@ -1,0 +1,5 @@
+39 processed.
+acessou: sim 28, via_alternativa 8, nao 3.
+confere: sim 35, parcial 1, nd 3.
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_04_out.json
+The session's web search limit (200 of 200) ran out, so web search was not used. Alternatives were the Europe PMC REST title or ID search, the URL without its query string or suffix, and one corrected URL for a malformed host. The 3 marked "nao" (gpt5_755_1, gpt5_820_1, gpt5_955_1) were blocked by 403 or reCAPTCHA, and no alternative turned them up.

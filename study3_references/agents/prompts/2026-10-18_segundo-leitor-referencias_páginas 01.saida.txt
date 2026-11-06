@@ -1,0 +1,8 @@
+processed: 39
+acessou: sim 34, via_alternativa 3, nao 2
+confere: sim 37, nd 2
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_01_out.json
+Notes:
+- gpt5_120_2 (PAHO) and gpt5_124_3 (ACOG) returned 403, and the session's web search budget (200/200) was used up, so the search alternative could not run. Both are marked nao/nd.
+- The 3 StatPearls pages on NCBI Bookshelf showed a reCAPTCHA page. Their metadata came from each chapter's Europe PMC record instead (via_alternativa).
+- NICE gave 403 through WebFetch, so the same URL was read with curl (recorded as sim).

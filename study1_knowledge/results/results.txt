@@ -1,0 +1,30 @@
+=== ACCURACY — 360 items (TEMI 2020-2025) ===
+  Gemini 3.1 Pro   336/360 =  93.3%   95%CI 90.3-95.5
+  gpt-5.5          331/360 =  91.9%   95%CI 88.7-94.3
+  Claude Opus 4.8  312/360 =  86.7%   95%CI 82.8-89.8
+  OpenEvidence     310/360 =  86.1%   95%CI 82.2-89.3
+  MDmind           307/360 =  85.3%   95%CI 81.2-88.6
+
+Cochran's Q (df=4) = 36.6, p = 2.16e-07
+
+=== Exact McNemar + Holm (10 pairs) ===
+pair                                    A>B  B>A   p(Holm)
+Gemini 3.1 Pro vs MDmind                 39   10    0.0004 ***
+gpt-5.5 vs MDmind                        29    5    0.0004 ***
+Gemini 3.1 Pro vs OpenEvidence           39   13    0.0033 **
+gpt-5.5 vs OpenEvidence                  28    7    0.0036 **
+Claude Opus 4.8 vs Gemini 3.1 Pro        11   35    0.0036 **
+Claude Opus 4.8 vs gpt-5.5                5   24    0.0036 **
+Gemini 3.1 Pro vs gpt-5.5                15   10    1.0000 ns
+Claude Opus 4.8 vs MDmind                22   17    1.0000 ns
+MDmind vs OpenEvidence                   21   24    1.0000 ns
+Claude Opus 4.8 vs OpenEvidence          17   15    1.0000 ns
+
+=== by exam ===
+exam            n  Gemini 3.1 P       gpt-5.5  Claude Opus   OpenEvidence        MDmind
+TEMI 2020      87           93%           91%           84%           85%           85%
+TEMI 2021      82           96%           95%           93%           91%           93%
+TEMI 2022      52           94%           85%           81%           75%           75%
+TEMI 2023      51           88%           84%           80%           84%           76%
+TEMI 2024      46           91%          100%           91%           93%           91%
+TEMI 2025      42           95%           98%           90%           86%           88%

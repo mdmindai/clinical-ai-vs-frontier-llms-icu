@@ -1,0 +1,12 @@
+39 processed. acessou: sim 22, via_alternativa 15, nao 2. confere: sim 37, nd 2.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_08_out.json
+
+Notes on method:
+- **WebFetch blocked many domains**, so most pages were downloaded with curl instead. Those count as "sim".
+- **Medscape (3 pages)** loaded only with a crawler user-agent, still at the original URL. These also count as "sim".
+- **Most via_alternativa entries** (403 or gateway errors) were matched on PubMed by exact title. Each has its PMID in `nota`.
+- **claude_282_9**: the USPTO PDF is image-only, so title and grant year come from Google Patents.
+- **claude_295_5**: the Carilion domain did not resolve, so title and year (2021) come from a web-search index entry for the same document, not the page itself.
+- **claude_373_4**: SciELO returned 502, so the article was found by web search on journalrbgo.org.
+- **The 2 "nao"**: claude_292_2 (UpToDate, paywalled, empty shell page) and claude_336_4 (Rare Disease Advisor, 403, not found elsewhere).

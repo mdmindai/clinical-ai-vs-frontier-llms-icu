@@ -1,0 +1,7 @@
+# aggregate.py (versions that produced the published results; Python 3.9)
+numpy==2.0.2
+scipy==1.13.1
+# generate_answers_*.py, judge.py (regenerate answers/grades; API keys needed)
+openai
+anthropic
+httpx

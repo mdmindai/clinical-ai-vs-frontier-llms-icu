@@ -1,0 +1,9 @@
+processed=39; acessou: sim=30, via_alternativa=7, nao=2; confere: sim=37, parcial=0, nao=0, nd=2. Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_14_out.json
+
+The two not accessed were gemini_293_4 (TRF3 NatJus page timed out, and no copy was found elsewhere) and gemini_373_6 (Einstein PDF returned 403, and the alternative Einstein URL also returned 403). Every titulo_citado in this batch is a bare domain, so "confere=sim" only means the page is a real document on that domain.
+
+Data-quality points:
+- **Assigned years:** for the Osler question pages, ano is the exam year from the page ID, not a publication date.
+- **Unofficial copy:** gemini_373_11 is a user upload on Scribd, not the official FEBRASGO source.
+- **Patient pages:** several items are clinic pages written for patients, not the profession.
+- **Exam-question pages:** the Osler and SanarMed items are exam questions with commented answers.

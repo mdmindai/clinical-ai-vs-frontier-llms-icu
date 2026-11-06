@@ -1,0 +1,12 @@
+Processed: 39
+acessou: sim=35, via_alternativa=1, nao=3
+confere: sim=36, nd=3
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_19_out.json
+
+Notes:
+- In this batch, titulo_citado is only the site's domain. So confere="sim" means the page opened on that domain. It does not mean a cited title was matched.
+- The 3 "nao": two oslermedicina question pages and amjcaserep 951026 all returned 403. A web search for amjcaserep 951026 did not find the article. No alternative was tried for the two oslermedicina pages.
+- The 1 "via_alternativa": ashpublications returned 403, so I read the same article on PMC (PMC10329191).
+- Duplicates: gemini_1140_2 and gemini_1141_3 are the same URL. gemini_1185_1 and gemini_1185_2 are the same review, published in two places.
+- Several items are not clinical sources. gemini_1114_10 is an exam answer key. gemini_1141_6 is a commented exam question. gemini_1185_7 is an Instagram post.

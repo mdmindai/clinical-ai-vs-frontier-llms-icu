@@ -1,0 +1,5 @@
+39 processed. acessou: sim 25, via_alternativa 7, nao 7. confere: sim 32, nd 7.
+
+The web search budget for this session ran out (200/200), so the backup source for blocked pages was a PubMed/Crossref lookup by title or another publisher's copy. The 7 "nao" items had no backup source: Medscape returned 402 (5), StatPearls returned 403 and its NCBI copy hit a captcha (1), and bvsalud refused the connection (1).
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_07_out.json

@@ -1,0 +1,15 @@
+Processed: 39
+acessou: sim 22, via_alternativa 14, nao 3
+confere: sim 34, parcial 2, nd 3
+
+File written to <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_13_out.json
+
+Notes for the merge:
+- Every titulo_citado in this batch is only a domain name. So "confere" records whether the URL opens a real, specific document ("sim") or a generic or secondary page ("parcial").
+- The 3 "nao" items: SCIRP returned 403 (gemini_249_3), Medscape returned 402/403 (gemini_275_6), and the Instagram reel is behind a login wall (gemini_290_4).
+- Most "via_alternativa" items were PDFs that WebFetch could not read (blocked domain, 403, or no extracted text). I downloaded them with curl using a browser user-agent and read them locally with pdftotext. This is a third access method, outside the WebFetch-or-search fallback the task allowed.
+- Three other alternative routes:
+  - NCBI Bookshelf showed a reCAPTCHA, so the metadata came from Europe PMC.
+  - AJTMH came from the page's meta tags via curl.
+  - For mdsaude (gemini_275_7), the title comes only from the search index for the same URL. The page content was never read.
+- gemini_249_8 is hosted by Unimed Uberlândia, but the PDF is Anvisa's manual "Medidas de Prevenção de IRAS" (Série 4). The year is not shown on the pages I viewed, so ano is null.

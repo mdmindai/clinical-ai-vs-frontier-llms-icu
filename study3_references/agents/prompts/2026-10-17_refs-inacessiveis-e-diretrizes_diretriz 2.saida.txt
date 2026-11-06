@@ -1,0 +1,4 @@
+tipo_revisado: diretriz 17, consenso_especialistas 10
+base: texto_completo 18, pagina 5, resumo 4, nao_acessado 0
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_2_out.json

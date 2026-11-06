@@ -1,0 +1,9 @@
+Processed: 35. Output is in <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_20_out.json
+
+- acessou: sim 28, via_alternativa 3, nao 4
+- confere: sim 31, nd 4, parcial 0, nao 0
+
+Notes:
+- In this batch, `titulo_citado` is only the site's domain name. So "confere = sim" only means the URL opened a real document on that domain that matches the link, not that a cited title was checked.
+- Two of the via_alternativa items (litfl, medlink) were confirmed only from web search results, with `ano` left null.
+- Institutional protocols and POPs (IMIP, HULW, SUBHUE, the heparin protocol) and the full SBH journal issue are typed "outro", with a note saying what they are, so they can be re-coded later. I did not put them under "diretriz".

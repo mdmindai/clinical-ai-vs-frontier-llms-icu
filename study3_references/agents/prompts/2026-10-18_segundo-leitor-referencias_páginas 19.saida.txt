@@ -1,0 +1,7 @@
+39 processed. acessou: sim 35, via_alternativa 4, nao 0. confere: sim 39, parcial 0, nao 0, nd 0.
+
+The four via_alternativa items: two Osler pages that returned 403 to WebFetch were read at the same URL with curl. The ASH Blood and AJCR articles were blocked, so their details come from PubMed esummary (PMIDs 36989488 and 41689248). The web search budget had run out, so no title searches were used.
+
+All titulo_citado values are only domain names, so confere=sim means the page was a real, readable document on that domain. One caveat: gemini_1114_10 (portalfaurgs) is a 2011 HCPA exam answer key with only answer letters and no clinical content. It is marked confere=sim with a note.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_19_out.json

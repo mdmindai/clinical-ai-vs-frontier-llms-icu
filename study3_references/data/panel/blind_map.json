@@ -1,0 +1,702 @@
+{
+ "4": {
+  "A": "gemini",
+  "B": "gpt5",
+  "C": "oe",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "5": {
+  "A": "oe",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "9": {
+  "A": "claude",
+  "B": "gemini",
+  "C": "gpt5",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "11": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "12": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "19": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "claude",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "21": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "gemini"
+ },
+ "25": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "claude",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "35": {
+  "A": "gemini",
+  "B": "mdmind",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "oe"
+ },
+ "53": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "claude",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "87": {
+  "A": "claude",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "92": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gemini"
+ },
+ "93": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "claude",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "120": {
+  "A": "gpt5",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "oe",
+  "E": "claude"
+ },
+ "123": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "oe",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "124": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "gemini"
+ },
+ "126": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "claude",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "130": {
+  "A": "gpt5",
+  "B": "claude",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "137": {
+  "A": "claude",
+  "B": "mdmind",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "138": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "178": {
+  "A": "mdmind",
+  "B": "gemini",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "claude"
+ },
+ "179": {
+  "A": "claude",
+  "B": "oe",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "184": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "oe"
+ },
+ "185": {
+  "A": "claude",
+  "B": "mdmind",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "201": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "206": {
+  "A": "claude",
+  "B": "oe",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "217": {
+  "A": "oe",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "249": {
+  "A": "claude",
+  "B": "gpt5",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "oe"
+ },
+ "262": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "gpt5",
+  "D": "claude",
+  "E": "gemini"
+ },
+ "268": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "275": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "282": {
+  "A": "claude",
+  "B": "oe",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "290": {
+  "A": "mdmind",
+  "B": "gpt5",
+  "C": "claude",
+  "D": "gemini",
+  "E": "oe"
+ },
+ "292": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "293": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "gemini",
+  "D": "claude",
+  "E": "mdmind"
+ },
+ "295": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "claude",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "320": {
+  "A": "claude",
+  "B": "gemini",
+  "C": "mdmind",
+  "D": "oe",
+  "E": "gpt5"
+ },
+ "336": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "oe",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "340": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "claude"
+ },
+ "360": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "oe",
+  "D": "claude",
+  "E": "mdmind"
+ },
+ "361": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "gpt5",
+  "D": "claude",
+  "E": "gemini"
+ },
+ "373": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "claude"
+ },
+ "389": {
+  "A": "gpt5",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "claude",
+  "E": "oe"
+ },
+ "416": {
+  "A": "gemini",
+  "B": "gpt5",
+  "C": "oe",
+  "D": "claude",
+  "E": "mdmind"
+ },
+ "446": {
+  "A": "mdmind",
+  "B": "claude",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "oe"
+ },
+ "447": {
+  "A": "gemini",
+  "B": "gpt5",
+  "C": "mdmind",
+  "D": "oe",
+  "E": "claude"
+ },
+ "481": {
+  "A": "oe",
+  "B": "gpt5",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "493": {
+  "A": "claude",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "oe",
+  "E": "gpt5"
+ },
+ "495": {
+  "A": "mdmind",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "oe"
+ },
+ "519": {
+  "A": "oe",
+  "B": "gpt5",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gemini"
+ },
+ "567": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "claude",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "571": {
+  "A": "claude",
+  "B": "oe",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "gpt5"
+ },
+ "623": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "oe"
+ },
+ "642": {
+  "A": "oe",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "647": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "657": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "gemini"
+ },
+ "679": {
+  "A": "oe",
+  "B": "gemini",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "680": {
+  "A": "gemini",
+  "B": "mdmind",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "oe"
+ },
+ "700": {
+  "A": "claude",
+  "B": "gpt5",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "703": {
+  "A": "oe",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "gpt5"
+ },
+ "714": {
+  "A": "mdmind",
+  "B": "gemini",
+  "C": "gpt5",
+  "D": "claude",
+  "E": "oe"
+ },
+ "715": {
+  "A": "gpt5",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "oe",
+  "E": "claude"
+ },
+ "745": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "748": {
+  "A": "claude",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "752": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "755": {
+  "A": "mdmind",
+  "B": "oe",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "claude"
+ },
+ "789": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "791": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "claude"
+ },
+ "820": {
+  "A": "mdmind",
+  "B": "gemini",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "oe"
+ },
+ "835": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "853": {
+  "A": "mdmind",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "claude"
+ },
+ "872": {
+  "A": "gpt5",
+  "B": "mdmind",
+  "C": "gemini",
+  "D": "oe",
+  "E": "claude"
+ },
+ "887": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "889": {
+  "A": "mdmind",
+  "B": "oe",
+  "C": "claude",
+  "D": "gpt5",
+  "E": "gemini"
+ },
+ "955": {
+  "A": "oe",
+  "B": "claude",
+  "C": "gemini",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "967": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "claude",
+  "D": "oe",
+  "E": "mdmind"
+ },
+ "968": {
+  "A": "gemini",
+  "B": "gpt5",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "oe"
+ },
+ "989": {
+  "A": "oe",
+  "B": "mdmind",
+  "C": "claude",
+  "D": "gemini",
+  "E": "gpt5"
+ },
+ "1017": {
+  "A": "gpt5",
+  "B": "claude",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "oe"
+ },
+ "1029": {
+  "A": "claude",
+  "B": "gemini",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "1035": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "1043": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "claude"
+ },
+ "1075": {
+  "A": "gpt5",
+  "B": "oe",
+  "C": "claude",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "1076": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "1086": {
+  "A": "mdmind",
+  "B": "gpt5",
+  "C": "oe",
+  "D": "claude",
+  "E": "gemini"
+ },
+ "1090": {
+  "A": "gpt5",
+  "B": "claude",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "1102": {
+  "A": "claude",
+  "B": "gpt5",
+  "C": "oe",
+  "D": "gemini",
+  "E": "mdmind"
+ },
+ "1114": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "gpt5",
+  "E": "claude"
+ },
+ "1140": {
+  "A": "oe",
+  "B": "gemini",
+  "C": "gpt5",
+  "D": "claude",
+  "E": "mdmind"
+ },
+ "1141": {
+  "A": "mdmind",
+  "B": "gemini",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "claude"
+ },
+ "1164": {
+  "A": "gemini",
+  "B": "oe",
+  "C": "mdmind",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "1171": {
+  "A": "mdmind",
+  "B": "oe",
+  "C": "gpt5",
+  "D": "gemini",
+  "E": "claude"
+ },
+ "1185": {
+  "A": "claude",
+  "B": "gpt5",
+  "C": "mdmind",
+  "D": "gemini",
+  "E": "oe"
+ },
+ "1192": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "oe",
+  "D": "gpt5",
+  "E": "mdmind"
+ },
+ "1198": {
+  "A": "oe",
+  "B": "gpt5",
+  "C": "gemini",
+  "D": "mdmind",
+  "E": "claude"
+ },
+ "1205": {
+  "A": "gemini",
+  "B": "mdmind",
+  "C": "oe",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "1210": {
+  "A": "gemini",
+  "B": "claude",
+  "C": "gpt5",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "1228": {
+  "A": "gemini",
+  "B": "mdmind",
+  "C": "oe",
+  "D": "claude",
+  "E": "gpt5"
+ },
+ "1254": {
+  "A": "gpt5",
+  "B": "gemini",
+  "C": "claude",
+  "D": "mdmind",
+  "E": "oe"
+ },
+ "1258": {
+  "A": "mdmind",
+  "B": "gpt5",
+  "C": "gemini",
+  "D": "claude",
+  "E": "oe"
+ }
+}

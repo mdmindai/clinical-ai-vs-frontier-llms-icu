@@ -1,0 +1,12 @@
+I reviewed all 27 documents and wrote the results to <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_5_out.json
+
+**tipo_revisado:** diretriz 15, consenso_especialistas 11, noticia_blog 1
+
+**base:** texto_completo 18, resumo 4, pagina 3, nao_acessado 2
+
+Some labels rest on weaker evidence:
+- **2022 AHA/ACC/HFSA heart failure PDF** (heart.org): the site blocked access, so I kept the label "diretriz" and set base "nao_acessado".
+- **FEBRASGO 2025 position statement** (bvsalud): the server refused the connection. The input gives only "guideline/consensus", not which one. I set "consenso_especialistas" because it is a position statement, and the method was not checked.
+- **2020 ACC/AHA valvular executive summary**: the JACC page was blocked, so I read the PubMed abstract. The abstract does not state the grading system. I recorded "sim" (ACC/AHA COR/LOE) because that is the usual ACC/AHA format, not because I saw it.
+- **AHA science-news page** on the 2020 valvular guideline: the live page was blocked, so I read an archived copy. It is a summary page with key points and links, not the guideline itself, so I labeled it noticia_blog.
+- **Abstract or other copy instead of the cited link:** for the ASTCT grading paper (the publisher page was blocked) and the Surgical Infection Society guideline (cited on ResearchGate), I used the PubMed abstract or the PMC full text instead.

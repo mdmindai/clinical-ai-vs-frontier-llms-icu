@@ -1,0 +1,10 @@
+tipo_revisado: consenso_especialistas 16, diretriz 7
+base: texto_completo 20, pagina 3, nao_acessado 0
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_8_out.json
+
+Notes:
+- Two documents came from a different copy of the same document:
+  - pmid:25410835: PMC returned a captcha, so I read the full text through Europe PMC instead.
+  - The ATS/IDSA 2005 page on academic.oup returned 403, so I read the PDF on thoracic.org instead.
+- Two Ministério da Saúde manuals (the Guia de Bolso and the Guia de Vigilância vol. 3) are labeled consenso_especialistas. They could also be classed as livro_capitulo. This is recorded in their notes.

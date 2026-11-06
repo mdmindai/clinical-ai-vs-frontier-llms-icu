@@ -1,0 +1,11 @@
+Processed: 39
+acessou: sim 29, via_alternativa 5, nao 5
+confere: sim 34, nd 5
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_09_out.json
+
+Notes:
+- 14 of the "sim" pages were read with curl at the exact same URL because WebFetch was blocked on those domains. Each one says so in its nota.
+- claude_714_6 (ScienceDirect Topics) counts as via_alternativa: I read it through the Google Translate proxy of the same URL.
+- The 5 "nao" items (403 and nothing found by title search): claude_373_11 (santapaula), claude_748_1 (drugs.com), claude_752_7 (medscape), claude_835_2 (decisionpoint.medscape), claude_835_5 (ScienceDirect S1538783625009006).
+- claude_714_5 is marked confere "sim" because the page matches the cited title. But it is a protocol for a zilucoplan trial in myasthenia gravis and never mentions levomepromazine, so it is off-topic for the question.

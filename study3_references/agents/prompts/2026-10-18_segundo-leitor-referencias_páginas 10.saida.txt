@@ -1,0 +1,11 @@
+Processed 39.
+acessou: sim 23, via_alternativa 14, nao 2.
+confere: sim 36, parcial 1, nd 2.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_10_out.json
+
+Method notes:
+- **Web search was unavailable:** the session's WebSearch budget (200 calls) ran out. The 14 via_alternativa items were mostly blocked with 403 (ScienceDirect, MDPI, ResearchGate, Lancet). For those, the metadata comes from Europe PMC or Crossref lookups by title or DOI, not from the publisher's page.
+- **nao (2):** claude_968_2 (ResearchGate 403) and claude_1075_5 (BVS 403). Neither turned up in Europe PMC or Crossref.
+- **Inferred type:** for claude_1086_3, "revisao_narrativa" is inferred from the journal format because the abstract was not read. This is flagged in its nota.
+- **parcial (1):** claude_1075_6 is veterinary content, a UFRGS undergraduate thesis on dogs.

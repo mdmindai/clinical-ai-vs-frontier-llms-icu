@@ -1,0 +1,8 @@
+tipo_revisado: diretriz 13, consenso_especialistas 14 (total 27).
+base: texto_completo 20, resumo 4, pagina 2, nao_acessado 1.
+
+The one I couldn't open is the Carilion Clinic pneumonia guide: the site doesn't resolve and the Wayback Machine has no copy, so it keeps its current label, diretriz.
+
+Two calls could go either way, both now consenso_especialistas: the UFPR 2008 cardiogenic shock protocol and the HCor VTE prophylaxis protocol. Each copies grades from other guidelines in a few places, but neither grades its own recommendations.
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_v2/diretriz_6_out.json

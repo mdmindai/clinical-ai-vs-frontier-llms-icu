@@ -1,0 +1,11 @@
+Processed: 39
+acessou: sim 31, via_alternativa 6, nao 2
+confere: sim 35, parcial 2, nd 2
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/lote_15_out.json
+
+Notes:
+- All 200 web searches for the session were used up before this batch. So for the "via_alternativa" items, I fetched the same URL directly with curl or used Crossref and Europe PMC instead of a title search.
+- The 2 "nao" items: vetsmart.com.br returned 403 on both tries, and an Instagram post showed only a login wall.
+- The 2 "parcial" items: the Conitec page is a general FAQ, and the cardiol.br PDF is a congress circular with an Eliquis ad.
+- Each titulo_citado here is only a domain name. So "sim" means the page opened and is a real document on that domain.

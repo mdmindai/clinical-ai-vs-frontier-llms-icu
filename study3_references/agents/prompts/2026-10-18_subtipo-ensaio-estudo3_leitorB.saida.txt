@@ -1,0 +1,124 @@
+{
+ "itens": [
+  {
+   "codigo": "T01",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Residentes de terapia intensiva foram alocados aleatoriamente (\"randomly assigned\") a grupo com e sem assistência de IA para o diagnóstico de casos, configurando ensaio randomizado (unidade de randomização = médico)."
+  },
+  {
+   "codigo": "T02",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Pacientes foram randomizados para bolus ou infusão de nadroparina e depois cruzados para o método alternativo, ou seja, ensaio cruzado randomizado."
+  },
+  {
+   "codigo": "T03",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio clínico randomizado 1:1 (azul de metileno × controle) em choque séptico, registrado (RBR-96584w4)."
+  },
+  {
+   "codigo": "T04",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Regime tríplice com caplacizumabe administrado prospectivamente a 90 pacientes e comparado com 180 controles históricos, sem randomização."
+  },
+  {
+   "codigo": "T05",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "99 pacientes alocados aleatoriamente 1:1:1:1:1 a quatro doses de cetamina ou midazolam (placebo ativo), duplo-cego (NCT01920555)."
+  },
+  {
+   "codigo": "T06",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo prospectivo de braço único em que todos os pacientes receberam hipnótico não benzodiazepínico em dose protocolada (zolpidem ou zopiclona, escolhido por preferência do paciente) com desfecho antes-depois, sem grupo controle nem randomização."
+  },
+  {
+   "codigo": "T07",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "10 pacientes com doença neuromuscular tratados prospectivamente com VNI + tosse assistida após extubação, comparados a 10 controles históricos com tratamento padrão."
+  },
+  {
+   "codigo": "T08",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio duplo-cego, randomizado, controlado por placebo (colchicina × placebo, n=267; NCT04224545)."
+  },
+  {
+   "codigo": "T09",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo fisiológico de intervenção em 20 pacientes submetidos sequencialmente a volumes correntes de 4-10 mL/kg com e sem redução da complacência torácica, sem menção a randomização da ordem das condições."
+  },
+  {
+   "codigo": "T10",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Resumo (obtido via DOI 10.1016/j.ijge.2015.10.002) confirma estudo prospectivo, randomizado, duplo-cego, controlado por placebo com 138 pacientes alocados a dexametasona em dose baixa, alta ou placebo."
+  },
+  {
+   "codigo": "T11",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Ensaio aberto, multicêntrico, não comparativo, de braço único (fluconazol 150 mg/semana em 521 pacientes), sem randomização."
+  },
+  {
+   "codigo": "T12",
+   "subtipo": "nao_randomizado",
+   "confianca": "alta",
+   "justificativa": "Estudo antes-e-depois de braço único em 42 pacientes que receberam ivermectina 200 µg/kg/dia por 2 dias conforme protocolo dos investigadores, sem grupo controle."
+  },
+  {
+   "codigo": "T13",
+   "subtipo": "nao_randomizado",
+   "confianca": "baixa",
+   "justificativa": "Estudo prospectivo aberto de braço único (25 pacientes) com medidas antes e 1 h após azul de metileno 1,5 mg/kg em dose protocolada e registro em ClinicalTrials.gov (NCT04250389), sem randomização; os autores o chamam de coorte e o fármaco era terapia de resgate indicada clinicamente, então pode ser lido como observacional."
+  },
+  {
+   "codigo": "T14",
+   "subtipo": "nao_randomizado",
+   "confianca": "media",
+   "justificativa": "Estudo PAUSE: coorte prospectiva de manejo em que todos os 3.007 pacientes seguiram um protocolo padronizado de interrupção/retomada de DOAC definido pelos investigadores, em braço único, sem randomização."
+  },
+  {
+   "codigo": "T15",
+   "subtipo": "rct",
+   "confianca": "baixa",
+   "justificativa": "Estudo piloto fisiológico em apenas 2 pacientes com volume corrente variado aleatoriamente entre 3 e 11 mL/kg (desenho cruzado randomizado intra-sujeito), que preenche a definição de alocação aleatória, mas a amostra ínfima e o caráter fisiológico o afastam de um RCT clínico convencional."
+  },
+  {
+   "codigo": "T16",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio duplo-cego, randomizado, controlado por placebo (colchicina n=50 × placebo n=51; NCT04224545)."
+  },
+  {
+   "codigo": "T17",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Resumo (obtido via OpenAlex, DOI 10.5580/dec) descreve estudo prospectivo, randomizado, duplo-cego, controlado por placebo em 60 crianças divididas em dois grupos de 30 (dexametasona × controle)."
+  },
+  {
+   "codigo": "T18",
+   "subtipo": "nao_randomizado",
+   "confianca": "baixa",
+   "justificativa": "Todos os 76 pacientes receberam azul de metileno 2 mg/kg em bolus padronizado e foram comparados como respondedores × não respondedores, em braço único prospectivo sem randomização; os autores o rotulam como observacional, então pode ser lido como coorte de prática clínica e não ensaio."
+  },
+  {
+   "codigo": "T19",
+   "subtipo": "rct",
+   "confianca": "media",
+   "justificativa": "Os 124 pacientes foram alocados aleatoriamente (\"randomly enrolled\") ao grupo extubado pelo critério ACS ≤7 ou ao grupo extubado a critério do intensivista, o que configura alocação randomizada da estratégia apesar de os autores chamarem o estudo de observacional."
+  },
+  {
+   "codigo": "T20",
+   "subtipo": "rct",
+   "confianca": "alta",
+   "justificativa": "Ensaio clínico duplo-cego randomizado comparando itraconazol 100, 200 e 400 mg/dia em 149 pacientes (CTRI/2020/03/024326)."
+  }
+ ]
+}

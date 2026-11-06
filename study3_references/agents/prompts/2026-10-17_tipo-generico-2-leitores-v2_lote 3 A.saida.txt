@@ -1,0 +1,3 @@
+estudo_observacional: 46, revisao_narrativa: 9, outro: 8, consenso_especialistas: 7, relato_caso: 6, diretriz: 4, ensaio_clinico: 4, revisao_sistematica_metanalise: 3, livro_capitulo: 0 (total 87)
+
+File: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_tipo_generico/lote_3_leitorA2.json

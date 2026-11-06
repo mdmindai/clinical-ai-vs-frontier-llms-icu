@@ -1,0 +1,8 @@
+27 documents written to <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_leitor2/diretriz_6_out.json
+
+tipo_revisado: diretriz 13, consenso_especialistas 14
+base: texto_completo 19, resumo 4, pagina 3, nao_acessado 1
+
+- **Not accessed (Carilion):** the host does not resolve, so the document keeps its current label, entered as diretriz.
+- **Borderline (HCor, UFPR cardiogenic shock):** each has a few borrowed GRADE or Classe labels but no grading methods. Both are classed as consenso_especialistas.
+- **Borderline (MS PCDT 2013):** it is based on a literature search but does not grade its recommendations, so it is also consenso_especialistas.

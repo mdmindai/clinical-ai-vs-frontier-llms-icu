@@ -1,0 +1,9 @@
+Processed: 39
+acessou: sim 24, via_alternativa 9, nao 6
+confere: sim 33, nd 6
+
+Output: <internal_repo>/experimentos/rodada_v3_out2026/referencias/lotes_agentes/lote_11_out.json
+
+- **How pages were read:** PDFs were downloaded directly and their text extracted, since WebFetch could not parse them. The two USPTO patents are scanned images, so they were read with OCR. For pages blocked with 403, the same document was identified on PubMed, SciELO or Crossref and marked `via_alternativa`.
+- **Gemini items:** the cited title is only the domain name, so `confere` = "sim" means the page loaded and the document was identified.
+- **Not reached (6):** claude_1140_3 (VA), claude_1140_6 (NCODA), claude_1185_2 (ResearchGate), gemini_5_8 (scispace), gemini_12_1 (UNIS repository) and gemini_19_2 (Thrombosis Canada).
